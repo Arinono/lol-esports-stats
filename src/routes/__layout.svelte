@@ -1,5 +1,3 @@
-MENU BAR
-
 <slot />
 
 <style>
