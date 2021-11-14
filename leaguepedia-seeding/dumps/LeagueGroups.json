@@ -1,0 +1,1686 @@
+[
+  {
+    "LongName": "A1 eSports Legends Cup",
+    "ShortName": "A1",
+    "Leagues": [
+      "A1 eSports League Austria",
+      "A1 eSports League Austria Season 2"
+    ],
+    "_pageName": "A1 eSports Legends Cup",
+    "_pageTitle": "A1 eSports Legends Cup",
+    "_pageNamespace": 0,
+    "_pageID": 474769,
+    "_ID": 455
+  },
+  {
+    "LongName": "A1 Gaming League",
+    "ShortName": "A1GL",
+    "Leagues": [
+      "A1 Gaming League"
+    ],
+    "_pageName": "A1 Gaming League",
+    "_pageTitle": "A1 Gaming League",
+    "_pageNamespace": 0,
+    "_pageID": 435443,
+    "_ID": 290
+  },
+  {
+    "LongName": "Arena of Masters",
+    "ShortName": "AoM",
+    "Leagues": [
+      "Arena of Masters"
+    ],
+    "_pageName": "Arena of Masters",
+    "_pageTitle": "Arena of Masters",
+    "_pageNamespace": 0,
+    "_pageID": 463476,
+    "_ID": 407
+  },
+  {
+    "LongName": "Baltic Masters",
+    "ShortName": "BM",
+    "Leagues": [
+      "Baltic Masters",
+      "Baltic Esports League"
+    ],
+    "_pageName": "Baltic Masters",
+    "_pageTitle": "Baltic Masters",
+    "_pageNamespace": 0,
+    "_pageID": 312109,
+    "_ID": 30
+  },
+  {
+    "LongName": "Belgian College League",
+    "ShortName": "BCL",
+    "Leagues": [
+      "Belgian College League",
+      "RIV4L College League"
+    ],
+    "_pageName": "Belgian College League",
+    "_pageTitle": "Belgian College League",
+    "_pageNamespace": 0,
+    "_pageID": 426669,
+    "_ID": 261
+  },
+  {
+    "LongName": "The Belgian League",
+    "ShortName": "BL",
+    "Leagues": [
+      "Belgian League"
+    ],
+    "_pageName": "Belgian League",
+    "_pageTitle": "Belgian League",
+    "_pageNamespace": 0,
+    "_pageID": 347719,
+    "_ID": 562
+  },
+  {
+    "LongName": "Benelux Premier League",
+    "ShortName": "BPL",
+    "Leagues": [
+      "Benelux Premier League"
+    ],
+    "_pageName": "Benelux Premier League",
+    "_pageTitle": "Benelux Premier League",
+    "_pageNamespace": 0,
+    "_pageID": 314679,
+    "_ID": 374
+  },
+  {
+    "LongName": "Bloody Invitational Gaming League",
+    "ShortName": "BIG League",
+    "Leagues": [
+      "Bloody Invitational Gaming League"
+    ],
+    "_pageName": "Bloody Invitational Gaming League",
+    "_pageTitle": "Bloody Invitational Gaming League",
+    "_pageNamespace": 0,
+    "_pageID": 399031,
+    "_ID": 343
+  },
+  {
+    "LongName": "Brazilian Challenger Circuit",
+    "ShortName": "BRCC",
+    "Leagues": [
+      "Brazilian Challenger Circuit"
+    ],
+    "_pageName": "Brazilian Challenger Circuit",
+    "_pageTitle": "Brazilian Challenger Circuit",
+    "_pageNamespace": 0,
+    "_pageID": 192850,
+    "_ID": 544
+  },
+  {
+    "LongName": "Brazilian Academy Circuit of League of Legends",
+    "ShortName": "CBLOL Academy",
+    "Leagues": [
+      "Circuit Brazilian League of Legends Academy"
+    ],
+    "_pageName": "CBLOL Academy",
+    "_pageTitle": "CBLOL Academy",
+    "_pageNamespace": 0,
+    "_pageID": 446316,
+    "_ID": 350
+  },
+  {
+    "LongName": "Challengers Korea",
+    "ShortName": "CK",
+    "Leagues": [
+      "Challengers Korea"
+    ],
+    "_pageName": "Challengers Korea",
+    "_pageTitle": "Challengers Korea",
+    "_pageNamespace": 0,
+    "_pageID": 276730,
+    "_ID": 354
+  },
+  {
+    "LongName": "Circuit Brazilian League of Legends",
+    "ShortName": "CBLOL",
+    "Leagues": [
+      "Circuit Brazilian League of Legends"
+    ],
+    "_pageName": "Circuit Brazilian League of Legends",
+    "_pageTitle": "Circuit Brazilian League of Legends",
+    "_pageNamespace": 0,
+    "_pageID": 124577,
+    "_ID": 546
+  },
+  {
+    "LongName": "CIS Challenger League",
+    "ShortName": "CIS CL",
+    "Leagues": [
+      "CIS Challenger League"
+    ],
+    "_pageName": "CIS Challenger League",
+    "_pageTitle": "CIS Challenger League",
+    "_pageNamespace": 0,
+    "_pageID": 314685,
+    "_ID": 36
+  },
+  {
+    "LongName": "Claro Stars League",
+    "ShortName": "SL",
+    "Leagues": [
+      "SL"
+    ],
+    "_pageName": "Claro Stars League",
+    "_pageTitle": "Claro Stars League",
+    "_pageNamespace": 0,
+    "_pageID": 438097,
+    "_ID": 305
+  },
+  {
+    "LongName": "College League of Legends",
+    "ShortName": "CLOL",
+    "Leagues": [
+      "North American Collegiate Championship",
+      "College East Conference",
+      "College North Conference",
+      "College South Conference",
+      "College West Conference",
+      "uLoL Campus Series",
+      "Big Ten Network",
+      "College League of Legends",
+      "Peach Belt Conference",
+      "Big East Conference",
+      "East Coast Conference",
+      "Landmark Conference",
+      "Mountain West Conference",
+      "Eastern College Athletic Conference",
+      "Esports Collegiate Conference",
+      "Metro Atlantic Athletic Conference",
+      "Midwest Esports Conference"
+    ],
+    "_pageName": "College League of Legends",
+    "_pageTitle": "College League of Legends",
+    "_pageNamespace": 0,
+    "_pageID": 382699,
+    "_ID": 460
+  },
+  {
+    "LongName": "Copa Latinoamérica Sur",
+    "ShortName": "CLS",
+    "Leagues": [
+      "Copa Latinoamérica Sur"
+    ],
+    "_pageName": "Copa Latinoamérica Sur",
+    "_pageTitle": "Copa Latinoamérica Sur",
+    "_pageNamespace": 0,
+    "_pageID": 316100,
+    "_ID": 543
+  },
+  {
+    "LongName": "Copenhagen Games",
+    "ShortName": "CG",
+    "Leagues": [
+      "Copenhagen Games"
+    ],
+    "_pageName": "Copenhagen Games",
+    "_pageTitle": "Copenhagen Games",
+    "_pageNamespace": 0,
+    "_pageID": 136985,
+    "_ID": 193
+  },
+  {
+    "LongName": "Danish Esports League",
+    "ShortName": "DEL",
+    "Leagues": [
+      "Danish Esports League"
+    ],
+    "_pageName": "Danish Esports League",
+    "_pageTitle": "Danish Esports League",
+    "_pageNamespace": 0,
+    "_pageID": 383498,
+    "_ID": 85
+  },
+  {
+    "LongName": "División de Honor",
+    "ShortName": "DDH",
+    "Leagues": [
+      "LVP División de Honor"
+    ],
+    "_pageName": "División de Honor",
+    "_pageTitle": "División de Honor",
+    "_pageNamespace": 0,
+    "_pageID": 318043,
+    "_ID": 301
+  },
+  {
+    "LongName": "The Dutch League",
+    "ShortName": "DL",
+    "Leagues": [
+      "Dutch League"
+    ],
+    "_pageName": "Dutch League",
+    "_pageTitle": "Dutch League",
+    "_pageNamespace": 0,
+    "_pageID": 347718,
+    "_ID": 563
+  },
+  {
+    "LongName": "ECS",
+    "ShortName": "ECS",
+    "Leagues": [
+      "Elite Challenger Series"
+    ],
+    "_pageName": "Elite Challenger Series",
+    "_pageTitle": "Elite Challenger Series",
+    "_pageNamespace": 0,
+    "_pageID": 316141,
+    "_ID": 100
+  },
+  {
+    "LongName": "Elite Series",
+    "ShortName": "ESLOL",
+    "Leagues": [
+      "Benelux ERL",
+      "Elite Series"
+    ],
+    "_pageName": "Elite Series",
+    "_pageTitle": "Elite Series",
+    "_pageNamespace": 0,
+    "_pageID": 609696,
+    "_ID": 561
+  },
+  {
+    "LongName": "ESL Benelux Championship",
+    "ShortName": "BNL",
+    "Leagues": [
+      "ESL Benelux"
+    ],
+    "_pageName": "ESL Benelux Championship",
+    "_pageTitle": "ESL Benelux Championship",
+    "_pageNamespace": 0,
+    "_pageID": 316033,
+    "_ID": 39
+  },
+  {
+    "LongName": "ESL Dutch Championship",
+    "ShortName": "ESL Dutch",
+    "Leagues": [
+      "ESL Dutch"
+    ],
+    "_pageName": "ESL Dutch Championship",
+    "_pageTitle": "ESL Dutch Championship",
+    "_pageNamespace": 0,
+    "_pageID": 316035,
+    "_ID": 375
+  },
+  {
+    "LongName": "ESL Proximus Championship",
+    "ShortName": "ESL Proximus",
+    "Leagues": [
+      "ESL Proximus"
+    ],
+    "_pageName": "ESL Proximus Championship",
+    "_pageTitle": "ESL Proximus Championship",
+    "_pageNamespace": 0,
+    "_pageID": 316037,
+    "_ID": 376
+  },
+  {
+    "LongName": "ESL South East Europe",
+    "ShortName": "ESL SEE",
+    "Leagues": [
+      "ESL South East Europe Championship"
+    ],
+    "_pageName": "ESL South East Europe Championship",
+    "_pageTitle": "ESL South East Europe Championship",
+    "_pageNamespace": 0,
+    "_pageID": 155276,
+    "_ID": 146
+  },
+  {
+    "LongName": "ESL Vodafone Championship",
+    "ShortName": "EVC",
+    "Leagues": [
+      "ESL Vodafone Championship"
+    ],
+    "_pageName": "ESL Vodafone Championship",
+    "_pageTitle": "ESL Vodafone Championship",
+    "_pageNamespace": 0,
+    "_pageID": 293386,
+    "_ID": 189
+  },
+  {
+    "LongName": "Esport League FR",
+    "ShortName": "ELF",
+    "Leagues": [
+      "Esport League FR"
+    ],
+    "_pageName": "Esport League FR",
+    "_pageTitle": "Esport League FR",
+    "_pageNamespace": 0,
+    "_pageID": 420661,
+    "_ID": 209
+  },
+  {
+    "LongName": "Esports Balkan League",
+    "ShortName": "EBL",
+    "Leagues": [
+      "Esports Balkan League",
+      "Esports Balkan League"
+    ],
+    "_pageName": "Esports Balkan League",
+    "_pageTitle": "Esports Balkan League",
+    "_pageNamespace": 0,
+    "_pageID": 316964,
+    "_ID": 312
+  },
+  {
+    "LongName": "Esports Championships East Asia",
+    "ShortName": "ECEA",
+    "Leagues": [
+      "Esports Championships East Asia"
+    ],
+    "_pageName": "Esports Championships East Asia",
+    "_pageTitle": "Esports Championships East Asia",
+    "_pageNamespace": 0,
+    "_pageID": 603222,
+    "_ID": 539
+  },
+  {
+    "LongName": "Esports World Convention",
+    "ShortName": "ESWC",
+    "Leagues": [
+      "ESWC Summer 2017"
+    ],
+    "_pageName": "ESWC",
+    "_pageTitle": "ESWC",
+    "_pageNamespace": 0,
+    "_pageID": 427950,
+    "_ID": 263
+  },
+  {
+    "LongName": "European Masters",
+    "ShortName": "EM",
+    "Leagues": [
+      "European Masters"
+    ],
+    "_pageName": "European Masters",
+    "_pageTitle": "European Masters",
+    "_pageNamespace": 0,
+    "_pageID": 254134,
+    "_ID": 542
+  },
+  {
+    "LongName": "Finnish Esports League",
+    "ShortName": "FEL",
+    "Leagues": [
+      "Finnish Esports League"
+    ],
+    "_pageName": "Finnish Esports League",
+    "_pageTitle": "Finnish Esports League",
+    "_pageNamespace": 0,
+    "_pageID": 383549,
+    "_ID": 86
+  },
+  {
+    "LongName": "Fortuna Championship Series",
+    "ShortName": "FCS",
+    "Leagues": [
+      "Fortuna Championship Series"
+    ],
+    "_pageName": "Fortuna Championship Series",
+    "_pageTitle": "Fortuna Championship Series",
+    "_pageNamespace": 0,
+    "_pageID": 396667,
+    "_ID": 90
+  },
+  {
+    "LongName": "Frag-o-Matic",
+    "ShortName": "FoM",
+    "Leagues": [
+      "Frag-o-Matic"
+    ],
+    "_pageName": "Frag-o-Matic",
+    "_pageTitle": "Frag-o-Matic",
+    "_pageNamespace": 0,
+    "_pageID": 316054,
+    "_ID": 44
+  },
+  {
+    "LongName": "GameForce Masters",
+    "ShortName": "GFM",
+    "Leagues": [
+      "GameForce Masters"
+    ],
+    "_pageName": "GameForce Masters",
+    "_pageTitle": "GameForce Masters",
+    "_pageNamespace": 0,
+    "_pageID": 347709,
+    "_ID": 378
+  },
+  {
+    "LongName": "Gamers Assembly",
+    "ShortName": "GA",
+    "Leagues": [
+      "Gamers Assembly"
+    ],
+    "_pageName": "Gamers Assembly",
+    "_pageTitle": "Gamers Assembly",
+    "_pageNamespace": 0,
+    "_pageID": 382691,
+    "_ID": 422
+  },
+  {
+    "LongName": "Garena Premier League",
+    "ShortName": "GPL",
+    "Leagues": [
+      "Garena Premier League"
+    ],
+    "_pageName": "Garena Premier League",
+    "_pageTitle": "Garena Premier League",
+    "_pageNamespace": 0,
+    "_pageID": 161714,
+    "_ID": 3
+  },
+  {
+    "LongName": "Glorious Arena",
+    "ShortName": "GA",
+    "Leagues": [
+      "Glorious Arena"
+    ],
+    "_pageName": "Glorious Arena",
+    "_pageTitle": "Glorious Arena",
+    "_pageNamespace": 0,
+    "_pageID": 366372,
+    "_ID": 79
+  },
+  {
+    "LongName": "Golden League",
+    "ShortName": "GL",
+    "Leagues": [
+      "Golden League"
+    ],
+    "_pageName": "Golden League",
+    "_pageTitle": "Golden League",
+    "_pageNamespace": 0,
+    "_pageID": 318045,
+    "_ID": 568
+  },
+  {
+    "LongName": "Greek Legends League",
+    "ShortName": "GLL",
+    "Leagues": [
+      "Greek Legends League"
+    ],
+    "_pageName": "Greek Legends League",
+    "_pageTitle": "Greek Legends League",
+    "_pageNamespace": 0,
+    "_pageID": 293383,
+    "_ID": 26
+  },
+  {
+    "LongName": "Greek Legends Wings League",
+    "ShortName": "GLWL",
+    "Leagues": [
+      "Greek Legends League 2nd Division",
+      "GLWL"
+    ],
+    "_pageName": "Greek Legends Wings League",
+    "_pageTitle": "Greek Legends Wings League",
+    "_pageNamespace": 0,
+    "_pageID": 441888,
+    "_ID": 324
+  },
+  {
+    "LongName": "Guardians League",
+    "ShortName": "GUL",
+    "Leagues": [
+      "Guardians League"
+    ],
+    "_pageName": "Guardians League",
+    "_pageTitle": "Guardians League",
+    "_pageNamespace": 0,
+    "_pageID": 366494,
+    "_ID": 302
+  },
+  {
+    "LongName": "Hitpoint 3rd Division",
+    "ShortName": "HM3",
+    "Leagues": [
+      "Hitpoint Masters 3rd Division"
+    ],
+    "_pageName": "Hitpoint 3rd Division",
+    "_pageTitle": "Hitpoint 3rd Division",
+    "_pageNamespace": 0,
+    "_pageID": 462879,
+    "_ID": 401
+  },
+  {
+    "LongName": "Hitpoint Challengers",
+    "ShortName": "HC",
+    "Leagues": [
+      "Hitpoint Challengers"
+    ],
+    "_pageName": "Hitpoint Challengers",
+    "_pageTitle": "Hitpoint Challengers",
+    "_pageNamespace": 0,
+    "_pageID": 443419,
+    "_ID": 549
+  },
+  {
+    "LongName": "Hitpoint Masters",
+    "ShortName": "HM",
+    "Leagues": [
+      "Hitpoint Masters",
+      "RoG Masters"
+    ],
+    "_pageName": "Hitpoint Masters",
+    "_pageTitle": "Hitpoint Masters",
+    "_pageNamespace": 0,
+    "_pageID": 280761,
+    "_ID": 493
+  },
+  {
+    "LongName": "Hitpoint Winter",
+    "ShortName": "HW",
+    "Leagues": [
+      "Hitpoint Winter"
+    ],
+    "_pageName": "Hitpoint Winter",
+    "_pageTitle": "Hitpoint Winter",
+    "_pageNamespace": 0,
+    "_pageID": 605898,
+    "_ID": 548
+  },
+  {
+    "LongName": "Iberian Cup",
+    "ShortName": "IC",
+    "Leagues": [
+      "Iberian Cup"
+    ],
+    "_pageName": "Iberian Cup",
+    "_pageTitle": "Iberian Cup",
+    "_pageNamespace": 0,
+    "_pageID": 256235,
+    "_ID": 255
+  },
+  {
+    "LongName": "Icelandic Esports League",
+    "ShortName": "IEL",
+    "Leagues": [
+      "Icelandic Esports League"
+    ],
+    "_pageName": "Icelandic Esports League",
+    "_pageTitle": "Icelandic Esports League",
+    "_pageNamespace": 0,
+    "_pageID": 383552,
+    "_ID": 101
+  },
+  {
+    "LongName": "Insomnia",
+    "ShortName": "IM",
+    "Leagues": [
+      "Insomnia New",
+      "Insomnia",
+      ""
+    ],
+    "_pageName": "Insomnia",
+    "_pageTitle": "Insomnia",
+    "_pageNamespace": 0,
+    "_pageID": 382720,
+    "_ID": 325
+  },
+  {
+    "LongName": "Intel Arabian Cup",
+    "ShortName": "IAC",
+    "Leagues": [
+      "Intel Arabian Cup"
+    ],
+    "_pageName": "Intel Arabian Cup",
+    "_pageTitle": "Intel Arabian Cup",
+    "_pageNamespace": 0,
+    "_pageID": 396754,
+    "_ID": 545
+  },
+  {
+    "LongName": "Kayzr League",
+    "ShortName": "Kayzr",
+    "Leagues": [
+      "Kayzr League"
+    ],
+    "_pageName": "Kayzr League",
+    "_pageTitle": "Kayzr League",
+    "_pageNamespace": 0,
+    "_pageID": 316052,
+    "_ID": 377
+  },
+  {
+    "LongName": "KeG Championship",
+    "ShortName": "KeG",
+    "Leagues": [
+      "KeG Championship"
+    ],
+    "_pageName": "KeG Championship",
+    "_pageTitle": "KeG Championship",
+    "_pageNamespace": 0,
+    "_pageID": 353275,
+    "_ID": 73
+  },
+  {
+    "LongName": "La Ligue Féminine",
+    "ShortName": "LLF",
+    "Leagues": [
+      "LLF"
+    ],
+    "_pageName": "La Ligue Féminine",
+    "_pageTitle": "La Ligue Féminine",
+    "_pageNamespace": 0,
+    "_pageID": 291679,
+    "_ID": 264
+  },
+  {
+    "LongName": "LanTrek",
+    "ShortName": "LanTrek",
+    "Leagues": [
+      "LanTrek"
+    ],
+    "_pageName": "LanTrek",
+    "_pageTitle": "LanTrek",
+    "_pageNamespace": 0,
+    "_pageID": 465310,
+    "_ID": 406
+  },
+  {
+    "LongName": "LCK Academy Series",
+    "ShortName": "LCK Academy Series",
+    "Leagues": [
+      "LCK Academy Series"
+    ],
+    "_pageName": "LCK Academy Series",
+    "_pageTitle": "LCK Academy Series",
+    "_pageNamespace": 0,
+    "_pageID": 412908,
+    "_ID": 316
+  },
+  {
+    "LongName": "LCK Challengers League",
+    "ShortName": "LCK CL",
+    "Leagues": [
+      "LCK Challengers League"
+    ],
+    "_pageName": "LCK Challengers League",
+    "_pageTitle": "LCK Challengers League",
+    "_pageNamespace": 0,
+    "_pageID": 440325,
+    "_ID": 390
+  },
+  {
+    "LongName": "LCL Open Cup",
+    "ShortName": "LCL OC",
+    "Leagues": [
+      "LCL Open Cup"
+    ],
+    "_pageName": "LCL Open Cup",
+    "_pageTitle": "LCL Open Cup",
+    "_pageNamespace": 0,
+    "_pageID": 279694,
+    "_ID": 24
+  },
+  {
+    "LongName": "League Championship Series",
+    "ShortName": "LCS",
+    "Leagues": [
+      "League of Legends Championship Series",
+      "North America League Championship Series",
+      "League of Legends Championship Series"
+    ],
+    "_pageName": "League Championship Series",
+    "_pageTitle": "League Championship Series",
+    "_pageNamespace": 0,
+    "_pageID": 178175,
+    "_ID": 558
+  },
+  {
+    "LongName": "LoL Champions Korea",
+    "ShortName": "LCK",
+    "Leagues": [
+      "LoL Champions Korea",
+      "OGN",
+      "LoL The Champions"
+    ],
+    "_pageName": "League of Legends Champions Korea",
+    "_pageTitle": "League of Legends Champions Korea",
+    "_pageNamespace": 0,
+    "_pageID": 254233,
+    "_ID": 547
+  },
+  {
+    "LongName": "League of Legends Continental League",
+    "ShortName": "LCL",
+    "Leagues": [
+      "LoL Continental League"
+    ],
+    "_pageName": "League of Legends Continental League",
+    "_pageTitle": "League of Legends Continental League",
+    "_pageNamespace": 0,
+    "_pageID": 314683,
+    "_ID": 557
+  },
+  {
+    "LongName": "League of Legends Japan League",
+    "ShortName": "LJL",
+    "Leagues": [
+      "LoL Japan League",
+      "LoL Japan League",
+      "LoL Japan League"
+    ],
+    "_pageName": "League of Legends Japan League",
+    "_pageTitle": "League of Legends Japan League",
+    "_pageNamespace": 0,
+    "_pageID": 314682,
+    "_ID": 537
+  },
+  {
+    "LongName": "League of Legends Master Series",
+    "ShortName": "LMS",
+    "Leagues": [
+      "LoL Master Series"
+    ],
+    "_pageName": "League of Legends Master Series",
+    "_pageTitle": "League of Legends Master Series",
+    "_pageNamespace": 0,
+    "_pageID": 179173,
+    "_ID": 471
+  },
+  {
+    "LongName": "League of Legends SEA Tour",
+    "ShortName": "LST",
+    "Leagues": [
+      "League of Legends SEA Tour",
+      "SEA Tour"
+    ],
+    "_pageName": "League of Legends SEA Tour",
+    "_pageTitle": "League of Legends SEA Tour",
+    "_pageNamespace": 0,
+    "_pageID": 316091,
+    "_ID": 46
+  },
+  {
+    "LongName": "LFL Division 2",
+    "ShortName": "LFL Division 2",
+    "Leagues": [
+      "La Ligue Française Division 2"
+    ],
+    "_pageName": "LFL Division 2",
+    "_pageTitle": "LFL Division 2",
+    "_pageNamespace": 0,
+    "_pageID": 414649,
+    "_ID": 541
+  },
+  {
+    "LongName": "Liga de Honor Entel",
+    "ShortName": "LHE",
+    "Leagues": [
+      "Liga de Honor Entel"
+    ],
+    "_pageName": "Liga de Honor Entel",
+    "_pageTitle": "Liga de Honor Entel",
+    "_pageNamespace": 0,
+    "_pageID": 318047,
+    "_ID": 299
+  },
+  {
+    "LongName": "Liga Latinoamérica",
+    "ShortName": "LLA",
+    "Leagues": [
+      "Liga Latinoamerica"
+    ],
+    "_pageName": "Liga Latinoamérica",
+    "_pageTitle": "Liga Latinoamérica",
+    "_pageNamespace": 0,
+    "_pageID": 316055,
+    "_ID": 550
+  },
+  {
+    "LongName": "Liga Latinoamérica Norte",
+    "ShortName": "LLN",
+    "Leagues": [
+      "Liga Latinoamérica Norte",
+      "Copa Latinoamérica Norte"
+    ],
+    "_pageName": "Liga Latinoamérica Norte",
+    "_pageTitle": "Liga Latinoamérica Norte",
+    "_pageNamespace": 0,
+    "_pageID": 316098,
+    "_ID": 434
+  },
+  {
+    "LongName": "Liga Master Flow",
+    "ShortName": "LMF",
+    "Leagues": [
+      "Liga Master Fibertel"
+    ],
+    "_pageName": "Liga Master Flow",
+    "_pageTitle": "Liga Master Flow",
+    "_pageNamespace": 0,
+    "_pageID": 318051,
+    "_ID": 566
+  },
+  {
+    "LongName": "El Nexo",
+    "ShortName": "El Nexo",
+    "Leagues": [
+      "El Nexo"
+    ],
+    "_pageName": "Liga Nexo",
+    "_pageTitle": "Liga Nexo",
+    "_pageNamespace": 0,
+    "_pageID": 375465,
+    "_ID": 229
+  },
+  {
+    "LongName": "Liga Portuguesa de League of Legends",
+    "ShortName": "LPLOL",
+    "Leagues": [
+      "Liga Portuguesa",
+      "Liga Portuguesa"
+    ],
+    "_pageName": "Liga Portuguesa de League of Legends",
+    "_pageTitle": "Liga Portuguesa de League of Legends",
+    "_pageNamespace": 0,
+    "_pageID": 273206,
+    "_ID": 446
+  },
+  {
+    "LongName": "Liga Promessa",
+    "ShortName": "Liga Promessa",
+    "Leagues": [
+      "Liga Promessa"
+    ],
+    "_pageName": "Liga Promessa",
+    "_pageTitle": "Liga Promessa",
+    "_pageNamespace": 0,
+    "_pageID": 492151,
+    "_ID": 494
+  },
+  {
+    "LongName": "Liga Tica de Leyendas",
+    "ShortName": "LTL",
+    "Leagues": [
+      "Liga Tica de Leyendas"
+    ],
+    "_pageName": "Liga Tica de Leyendas",
+    "_pageTitle": "Liga Tica de Leyendas",
+    "_pageNamespace": 0,
+    "_pageID": 318041,
+    "_ID": 56
+  },
+  {
+    "LongName": "Ligue Française de League of Legends",
+    "ShortName": "LFL",
+    "Leagues": [
+      "La Ligue Française"
+    ],
+    "_pageName": "Ligue Française de League of Legends",
+    "_pageTitle": "Ligue Française de League of Legends",
+    "_pageNamespace": 0,
+    "_pageID": 261712,
+    "_ID": 553
+  },
+  {
+    "LongName": "LJL Academy League",
+    "ShortName": "LJLA",
+    "Leagues": [
+      "LJL Academy League"
+    ],
+    "_pageName": "LJL Academy League",
+    "_pageTitle": "LJL Academy League",
+    "_pageNamespace": 0,
+    "_pageID": 494211,
+    "_ID": 514
+  },
+  {
+    "LongName": "LJL Challenger Series",
+    "ShortName": "LJLCS",
+    "Leagues": [
+      "LoL Japan League Challenger Series"
+    ],
+    "_pageName": "LJL Challenger Series",
+    "_pageTitle": "LJL Challenger Series",
+    "_pageNamespace": 0,
+    "_pageID": 494258,
+    "_ID": 512
+  },
+  {
+    "LongName": "LJL Scouting Grounds",
+    "ShortName": "LJLSG",
+    "Leagues": [
+      "LoL Japan League Scouting Ground"
+    ],
+    "_pageName": "LJL Scouting Grounds",
+    "_pageTitle": "LJL Scouting Grounds",
+    "_pageNamespace": 0,
+    "_pageID": 494254,
+    "_ID": 513
+  },
+  {
+    "LongName": "LoL Circuit Oceania",
+    "ShortName": "LCO",
+    "Leagues": [
+      "LoL Circuit Oceania"
+    ],
+    "_pageName": "LoL Circuit Oceania",
+    "_pageTitle": "LoL Circuit Oceania",
+    "_pageNamespace": 0,
+    "_pageID": 454935,
+    "_ID": 526
+  },
+  {
+    "LongName": "League of Legends Development League",
+    "ShortName": "LDL",
+    "Leagues": [
+      "LoL Development League"
+    ],
+    "_pageName": "LoL Development League",
+    "_pageTitle": "LoL Development League",
+    "_pageNamespace": 0,
+    "_pageID": 316096,
+    "_ID": 47
+  },
+  {
+    "LongName": "LoL European Championship",
+    "ShortName": "LEC",
+    "Leagues": [
+      "Europe League Championship Series",
+      "LoL European Championship"
+    ],
+    "_pageName": "LoL European Championship",
+    "_pageTitle": "LoL European Championship",
+    "_pageNamespace": 0,
+    "_pageID": 263508,
+    "_ID": 554
+  },
+  {
+    "LongName": "LoL KeSPA Cup",
+    "ShortName": "KeSPA",
+    "Leagues": [
+      "KeSPA"
+    ],
+    "_pageName": "LoL KeSPA Cup",
+    "_pageTitle": "LoL KeSPA Cup",
+    "_pageNamespace": 0,
+    "_pageID": 351193,
+    "_ID": 355
+  },
+  {
+    "LongName": "LoL Pro League",
+    "ShortName": "LPL",
+    "Leagues": [
+      "Tencent LoL Pro League"
+    ],
+    "_pageName": "LoL Pro League",
+    "_pageTitle": "LoL Pro League",
+    "_pageNamespace": 0,
+    "_pageID": 238937,
+    "_ID": 530
+  },
+  {
+    "LongName": "LoL Secondary Pro League",
+    "ShortName": "LSPL",
+    "Leagues": [
+      "LoL Secondary Pro League"
+    ],
+    "_pageName": "LoL Secondary Pro League",
+    "_pageTitle": "LoL Secondary Pro League",
+    "_pageNamespace": 0,
+    "_pageID": 316707,
+    "_ID": 54
+  },
+  {
+    "LongName": "LVP SuperLiga",
+    "ShortName": "LVP SL",
+    "Leagues": [
+      "LVP SuperLiga Orange",
+      "Liga de Videojuegos Profesional",
+      "LVP Clasificatorio Challenger Series",
+      "División de Honor",
+      "LVP SuperLiga"
+    ],
+    "_pageName": "LVP SuperLiga",
+    "_pageTitle": "LVP SuperLiga",
+    "_pageNamespace": 0,
+    "_pageID": 231965,
+    "_ID": 345
+  },
+  {
+    "LongName": "Lyon e-Sport",
+    "ShortName": "LES",
+    "Leagues": [
+      "Lyon e-Sport"
+    ],
+    "_pageName": "Lyon e-Sport",
+    "_pageTitle": "Lyon e-Sport",
+    "_pageNamespace": 0,
+    "_pageID": 470510,
+    "_ID": 423
+  },
+  {
+    "LongName": "NA Academy League",
+    "ShortName": "NA Academy",
+    "Leagues": [
+      "NA Academy League",
+      "LCS Academy League"
+    ],
+    "_pageName": "NA Academy League",
+    "_pageTitle": "NA Academy League",
+    "_pageNamespace": 0,
+    "_pageID": 238870,
+    "_ID": 352
+  },
+  {
+    "LongName": "National Electronic Sports Tournament",
+    "ShortName": "NEST",
+    "Leagues": [
+      "National Electronic Sports Tournament",
+      "National Electronic Sports Tournament"
+    ],
+    "_pageName": "National Electronic Sports Tournament",
+    "_pageTitle": "National Electronic Sports Tournament",
+    "_pageNamespace": 0,
+    "_pageID": 433217,
+    "_ID": 296
+  },
+  {
+    "LongName": "NiceGameTV League of Legends Battle",
+    "ShortName": "NLB",
+    "Leagues": [
+      "NiceGameTV LoL Battle"
+    ],
+    "_pageName": "NiceGameTV League of Legends Battle",
+    "_pageTitle": "NiceGameTV League of Legends Battle",
+    "_pageNamespace": 0,
+    "_pageID": 367767,
+    "_ID": 78
+  },
+  {
+    "LongName": "Nordic Championship",
+    "ShortName": "Nordic",
+    "Leagues": [
+      "Nordic Championship"
+    ],
+    "_pageName": "Nordic Championship",
+    "_pageTitle": "Nordic Championship",
+    "_pageNamespace": 0,
+    "_pageID": 281643,
+    "_ID": 27
+  },
+  {
+    "LongName": "Northern League Championship",
+    "ShortName": "NLC",
+    "Leagues": [
+      "Northern League of Legends Championship"
+    ],
+    "_pageName": "Northern League of Legends Championship",
+    "_pageTitle": "Northern League of Legends Championship",
+    "_pageNamespace": 0,
+    "_pageID": 385666,
+    "_ID": 362
+  },
+  {
+    "LongName": "Norwegian Esports League",
+    "ShortName": "NEL",
+    "Leagues": [
+      "Norwegian Esports League"
+    ],
+    "_pageName": "Norwegian Esports League",
+    "_pageTitle": "Norwegian Esports League",
+    "_pageNamespace": 0,
+    "_pageID": 383551,
+    "_ID": 87
+  },
+  {
+    "LongName": "Oceanic Challenger Series",
+    "ShortName": "OCS",
+    "Leagues": [
+      "Oceanic Challenger Series"
+    ],
+    "_pageName": "Oceanic Challenger Series",
+    "_pageTitle": "Oceanic Challenger Series",
+    "_pageNamespace": 0,
+    "_pageID": 315975,
+    "_ID": 38
+  },
+  {
+    "LongName": "Oceanic Pro League",
+    "ShortName": "OPL",
+    "Leagues": [
+      "Oceanic Pro League"
+    ],
+    "_pageName": "Oceanic Pro League",
+    "_pageTitle": "Oceanic Pro League",
+    "_pageNamespace": 0,
+    "_pageID": 312667,
+    "_ID": 262
+  },
+  {
+    "LongName": "Open Tour Benelux",
+    "ShortName": "OTBLX",
+    "Leagues": [
+      "Open Tour Benelux",
+      "Open Tour Benelux"
+    ],
+    "_pageName": "Open Tour Benelux",
+    "_pageTitle": "Open Tour Benelux",
+    "_pageNamespace": 0,
+    "_pageID": 349960,
+    "_ID": 564
+  },
+  {
+    "LongName": "Open Tour France",
+    "ShortName": "Open Tour",
+    "Leagues": [
+      "Open Tour France"
+    ],
+    "_pageName": "Open Tour France",
+    "_pageTitle": "Open Tour France",
+    "_pageNamespace": 0,
+    "_pageID": 314681,
+    "_ID": 540
+  },
+  {
+    "LongName": "Pacific Championship Series",
+    "ShortName": "PCS",
+    "Leagues": [
+      "Pacific Championship Series"
+    ],
+    "_pageName": "Pacific Championship Series",
+    "_pageTitle": "Pacific Championship Series",
+    "_pageNamespace": 0,
+    "_pageID": 329742,
+    "_ID": 523
+  },
+  {
+    "LongName": "PG Nationals",
+    "ShortName": "PGN",
+    "Leagues": [
+      "PG Nationals"
+    ],
+    "_pageName": "PG Nationals",
+    "_pageTitle": "PG Nationals",
+    "_pageNamespace": 0,
+    "_pageID": 278630,
+    "_ID": 529
+  },
+  {
+    "LongName": "Proving Grounds",
+    "ShortName": "PGPG",
+    "Leagues": [
+      "PG Proving Grounds"
+    ],
+    "_pageName": "PG Proving Grounds",
+    "_pageTitle": "PG Proving Grounds",
+    "_pageNamespace": 0,
+    "_pageID": 488052,
+    "_ID": 481
+  },
+  {
+    "LongName": "Polska Liga Esportowa",
+    "ShortName": "PLE",
+    "Leagues": [
+      "Polska Liga Esportowa"
+    ],
+    "_pageName": "Polska Liga Esportowa",
+    "_pageTitle": "Polska Liga Esportowa",
+    "_pageNamespace": 0,
+    "_pageID": 351166,
+    "_ID": 272
+  },
+  {
+    "LongName": "Premier Tour",
+    "ShortName": "PT",
+    "Leagues": [
+      "Premier Tour"
+    ],
+    "_pageName": "Premier Tour",
+    "_pageTitle": "Premier Tour",
+    "_pageNamespace": 0,
+    "_pageID": 276438,
+    "_ID": 277
+  },
+  {
+    "LongName": "Prime League 1st Division",
+    "ShortName": "PL",
+    "Leagues": [
+      "Prime League 1st Division"
+    ],
+    "_pageName": "Prime League 1st Division",
+    "_pageTitle": "Prime League 1st Division",
+    "_pageNamespace": 0,
+    "_pageID": 401907,
+    "_ID": 94
+  },
+  {
+    "LongName": "Prime League 2nd Division",
+    "ShortName": "PL",
+    "Leagues": [
+      "Prime League 2nd Division"
+    ],
+    "_pageName": "Prime League 2nd Division",
+    "_pageTitle": "Prime League 2nd Division",
+    "_pageNamespace": 0,
+    "_pageID": 401903,
+    "_ID": 295
+  },
+  {
+    "LongName": "Prime League Pro Division",
+    "ShortName": "PL",
+    "Leagues": [
+      "Prime League Pro Division"
+    ],
+    "_pageName": "Prime League Pro Division",
+    "_pageTitle": "Prime League Pro Division",
+    "_pageNamespace": 0,
+    "_pageID": 401914,
+    "_ID": 278
+  },
+  {
+    "LongName": "Ragnarök",
+    "ShortName": "Ragnarök",
+    "Leagues": [
+      "Ragnarök"
+    ],
+    "_pageName": "Ragnarök",
+    "_pageTitle": "Ragnarök",
+    "_pageNamespace": 0,
+    "_pageID": 194740,
+    "_ID": 8
+  },
+  {
+    "LongName": "Regional Norte",
+    "ShortName": "Regional Norte",
+    "Leagues": [
+      "Regional Norte"
+    ],
+    "_pageName": "Regional Norte",
+    "_pageTitle": "Regional Norte",
+    "_pageNamespace": 0,
+    "_pageID": 419896,
+    "_ID": 205
+  },
+  {
+    "LongName": "Regional Sur",
+    "ShortName": "Regional Sur",
+    "Leagues": [
+      "Regional Sur"
+    ],
+    "_pageName": "Regional Sur",
+    "_pageTitle": "Regional Sur",
+    "_pageNamespace": 0,
+    "_pageID": 419897,
+    "_ID": 206
+  },
+  {
+    "LongName": "Rift Rivals",
+    "ShortName": "RR",
+    "Leagues": [
+      "Rift Rivals 2018 SEA-LJL-OPL",
+      "Rift Rivals 2017 GPL-LJL-OPL",
+      "Rift Rivals 2018 LLN-CLS-CBLOL",
+      "Rift Rivals 2017 LLN-CLS-CBLOL",
+      "Rift Rivals 2017 LCL-TCL",
+      "Rift Rivals 2017 NA-EU",
+      "Rift Rivals 2017 LCK-LPL-LMS"
+    ],
+    "_pageName": "Rift Rivals",
+    "_pageTitle": "Rift Rivals",
+    "_pageNamespace": 0,
+    "_pageID": 238884,
+    "_ID": 294
+  },
+  {
+    "LongName": "Romanian Esports League",
+    "ShortName": "REL",
+    "Leagues": [
+      "Romanian Esports League"
+    ],
+    "_pageName": "Romanian Esports League",
+    "_pageTitle": "Romanian Esports League",
+    "_pageNamespace": 0,
+    "_pageID": 383484,
+    "_ID": 110
+  },
+  {
+    "LongName": "Superliga ABCDE",
+    "ShortName": "ABCDE",
+    "Leagues": [
+      "Superliga ABCDE"
+    ],
+    "_pageName": "Superliga ABCDE",
+    "_pageTitle": "Superliga ABCDE",
+    "_pageNamespace": 0,
+    "_pageID": 347910,
+    "_ID": 65
+  },
+  {
+    "LongName": "Swedish Esports League",
+    "ShortName": "SEL",
+    "Leagues": [
+      "Swedish Esports League"
+    ],
+    "_pageName": "Swedish Esports League",
+    "_pageTitle": "Swedish Esports League",
+    "_pageNamespace": 0,
+    "_pageID": 317915,
+    "_ID": 53
+  },
+  {
+    "LongName": "Telia Esports Series Denmark",
+    "ShortName": "TESD",
+    "Leagues": [
+      "Telia Esports Series Denmark"
+    ],
+    "_pageName": "Telia Esports Series Denmark",
+    "_pageTitle": "Telia Esports Series Denmark",
+    "_pageNamespace": 0,
+    "_pageID": 442550,
+    "_ID": 472
+  },
+  {
+    "LongName": "Telia Esports Series Finland",
+    "ShortName": "TESF",
+    "Leagues": [
+      "Telia Esports Series Finland"
+    ],
+    "_pageName": "Telia Esports Series Finland",
+    "_pageTitle": "Telia Esports Series Finland",
+    "_pageNamespace": 0,
+    "_pageID": 442571,
+    "_ID": 334
+  },
+  {
+    "LongName": "Telia Esports Series Norway",
+    "ShortName": "TESN",
+    "Leagues": [
+      "Telia Esports Series Norway"
+    ],
+    "_pageName": "Telia Esports Series Norway",
+    "_pageTitle": "Telia Esports Series Norway",
+    "_pageNamespace": 0,
+    "_pageID": 442570,
+    "_ID": 333
+  },
+  {
+    "LongName": "Telia Esports Series Sweden",
+    "ShortName": "TESS",
+    "Leagues": [
+      "Telia Esports Series Sweden"
+    ],
+    "_pageName": "Telia Esports Series Sweden",
+    "_pageTitle": "Telia Esports Series Sweden",
+    "_pageNamespace": 0,
+    "_pageID": 442572,
+    "_ID": 335
+  },
+  {
+    "LongName": "Telia Masters",
+    "ShortName": "Telia Masters",
+    "Leagues": [
+      "Telia Masters"
+    ],
+    "_pageName": "Telia Masters",
+    "_pageTitle": "Telia Masters",
+    "_pageNamespace": 0,
+    "_pageID": 416435,
+    "_ID": 332
+  },
+  {
+    "LongName": "Telialigaen",
+    "ShortName": "TL",
+    "Leagues": [
+      "Telialigaen",
+      "Telenorligaen"
+    ],
+    "_pageName": "Telialigaen",
+    "_pageTitle": "Telialigaen",
+    "_pageNamespace": 0,
+    "_pageID": 355461,
+    "_ID": 565
+  },
+  {
+    "LongName": "Tempest League",
+    "ShortName": "Tempest",
+    "Leagues": [
+      "Tempest League"
+    ],
+    "_pageName": "Tempest League",
+    "_pageTitle": "Tempest League",
+    "_pageNamespace": 0,
+    "_pageID": 437481,
+    "_ID": 485
+  },
+  {
+    "LongName": "The Gathering",
+    "ShortName": "GTR",
+    "Leagues": [
+      "The Gathering"
+    ],
+    "_pageName": "The Gathering",
+    "_pageTitle": "The Gathering",
+    "_pageNamespace": 0,
+    "_pageID": 382719,
+    "_ID": 81
+  },
+  {
+    "LongName": "The Party",
+    "ShortName": "Party",
+    "Leagues": [
+      "The Party"
+    ],
+    "_pageName": "The Party",
+    "_pageTitle": "The Party",
+    "_pageNamespace": 0,
+    "_pageID": 257565,
+    "_ID": 15
+  },
+  {
+    "LongName": "Trinity Force Puchar Polski",
+    "ShortName": "TFPP",
+    "Leagues": [
+      "Trinity Force Puchar Polski"
+    ],
+    "_pageName": "Trinity Force Puchar Polski",
+    "_pageTitle": "Trinity Force Puchar Polski",
+    "_pageNamespace": 0,
+    "_pageID": 427681,
+    "_ID": 556
+  },
+  {
+    "LongName": "Turkey Academy League",
+    "ShortName": "TR Academy",
+    "Leagues": [
+      "Turkey Academy League"
+    ],
+    "_pageName": "Turkey Academy League",
+    "_pageTitle": "Turkey Academy League",
+    "_pageNamespace": 0,
+    "_pageID": 316102,
+    "_ID": 49
+  },
+  {
+    "LongName": "Turkish Challenger Series",
+    "ShortName": "TCS",
+    "Leagues": [
+      "Turkish Challenger Series"
+    ],
+    "_pageName": "Turkish Challenger Series",
+    "_pageTitle": "Turkish Challenger Series",
+    "_pageNamespace": 0,
+    "_pageID": 348479,
+    "_ID": 68
+  },
+  {
+    "LongName": "Turkish Championship League",
+    "ShortName": "TCL",
+    "Leagues": [
+      "Turkish Championship League"
+    ],
+    "_pageName": "Turkish Championship League",
+    "_pageTitle": "Turkish Championship League",
+    "_pageNamespace": 0,
+    "_pageID": 316094,
+    "_ID": 559
+  },
+  {
+    "LongName": "Turkish Promotion League",
+    "ShortName": "TPL",
+    "Leagues": [
+      "Turkish Promotion League"
+    ],
+    "_pageName": "Turkish Promotion League",
+    "_pageTitle": "Turkish Promotion League",
+    "_pageNamespace": 0,
+    "_pageID": 348478,
+    "_ID": 280
+  },
+  {
+    "LongName": "Twitch Rivals",
+    "ShortName": "TR",
+    "Leagues": [
+      "Twitch Rivals"
+    ],
+    "_pageName": "Twitch Rivals",
+    "_pageTitle": "Twitch Rivals",
+    "_pageNamespace": 0,
+    "_pageID": 273891,
+    "_ID": 252
+  },
+  {
+    "LongName": "Tyler1 Championship Series",
+    "ShortName": "TCS",
+    "Leagues": [
+      "Tyler1 Championship Series"
+    ],
+    "_pageName": "Tyler1 Championship Series",
+    "_pageTitle": "Tyler1 Championship Series",
+    "_pageNamespace": 0,
+    "_pageID": 348477,
+    "_ID": 66
+  },
+  {
+    "LongName": "UK Esports League",
+    "ShortName": "UKEL",
+    "Leagues": [
+      "UK Esports League"
+    ],
+    "_pageName": "UK Esports League",
+    "_pageTitle": "UK Esports League",
+    "_pageNamespace": 0,
+    "_pageID": 314783,
+    "_ID": 321
+  },
+  {
+    "LongName": "UK League Championship",
+    "ShortName": "UKLC",
+    "Leagues": [
+      "UK League Championship"
+    ],
+    "_pageName": "UK League Championship",
+    "_pageTitle": "UK League Championship",
+    "_pageNamespace": 0,
+    "_pageID": 276168,
+    "_ID": 363
+  },
+  {
+    "LongName": "Ultraliga",
+    "ShortName": "UL",
+    "Leagues": [
+      "Ultraliga"
+    ],
+    "_pageName": "Ultraliga",
+    "_pageTitle": "Ultraliga",
+    "_pageNamespace": 0,
+    "_pageID": 258906,
+    "_ID": 538
+  },
+  {
+    "LongName": "Ultraliga 2nd Division",
+    "ShortName": "UL 2nd",
+    "Leagues": [
+      "Ultraliga 2nd Division"
+    ],
+    "_pageName": "Ultraliga 2nd Division",
+    "_pageTitle": "Ultraliga 2nd Division",
+    "_pageNamespace": 0,
+    "_pageID": 399979,
+    "_ID": 93
+  },
+  {
+    "LongName": "Underdogs",
+    "ShortName": "Underdogs",
+    "Leagues": [
+      "Underdogs"
+    ],
+    "_pageName": "Underdogs",
+    "_pageTitle": "Underdogs",
+    "_pageNamespace": 0,
+    "_pageID": 202331,
+    "_ID": 222
+  },
+  {
+    "LongName": "University Esports Masters",
+    "ShortName": "UEM",
+    "Leagues": [
+      "University Esports Masters"
+    ],
+    "_pageName": "University Esports Masters",
+    "_pageTitle": "University Esports Masters",
+    "_pageNamespace": 0,
+    "_pageID": 485918,
+    "_ID": 463
+  },
+  {
+    "LongName": "Vietnam Academy Challenge",
+    "ShortName": "VAC",
+    "Leagues": [
+      "POPS eSports Academy Challenge",
+      "WeScan Academy Challenge"
+    ],
+    "_pageName": "Vietnam Academy Challenge",
+    "_pageTitle": "Vietnam Academy Challenge",
+    "_pageNamespace": 0,
+    "_pageID": 435670,
+    "_ID": 297
+  },
+  {
+    "LongName": "Vietnam Championship Series",
+    "ShortName": "VCS",
+    "Leagues": [
+      "Vietnam Championship Series",
+      "Vietnam Championship Series A",
+      "Mountain Dew Championship Series"
+    ],
+    "_pageName": "Vietnam Championship Series",
+    "_pageTitle": "Vietnam Championship Series",
+    "_pageNamespace": 0,
+    "_pageID": 316084,
+    "_ID": 489
+  },
+  {
+    "LongName": "Volcano League",
+    "ShortName": "VL",
+    "Leagues": [
+      "Volcano League"
+    ],
+    "_pageName": "Volcano League",
+    "_pageTitle": "Volcano League",
+    "_pageNamespace": 0,
+    "_pageID": 437971,
+    "_ID": 349
+  },
+  {
+    "LongName": "ZOTAC CUP LoL EU West",
+    "ShortName": "zotac cup",
+    "Leagues": [
+      "ZOTAC CUP"
+    ],
+    "_pageName": "ZOTAC CUP LoL EU West",
+    "_pageTitle": "ZOTAC CUP LoL EU West",
+    "_pageNamespace": 0,
+    "_pageID": 375141,
+    "_ID": 351
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "RegionLong": "North America",
+    "RegionMedium": "North America",
+    "Priority": 1,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 29
+  },
+  {
+    "RegionLong": "Europe",
+    "RegionMedium": "Europe",
+    "Priority": 2,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 30
+  },
+  {
+    "RegionLong": "Korea",
+    "RegionMedium": "Korea",
+    "Priority": 3,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 31
+  },
+  {
+    "RegionLong": "China",
+    "RegionMedium": "China",
+    "Priority": 4,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 32
+  },
+  {
+    "RegionLong": "Brazil",
+    "RegionMedium": "Brazil",
+    "Priority": 5,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 33
+  },
+  {
+    "RegionLong": "CIS",
+    "RegionMedium": "CIS",
+    "Priority": 6,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 34
+  },
+  {
+    "RegionLong": "Japan",
+    "RegionMedium": "Japan",
+    "Priority": 7,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 35
+  },
+  {
+    "RegionLong": "Latin America",
+    "RegionMedium": "Latin America",
+    "Priority": 8,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 36
+  },
+  {
+    "RegionLong": "Oceania",
+    "RegionMedium": "Oceania",
+    "Priority": 9,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 37
+  },
+  {
+    "RegionLong": "PCS",
+    "RegionMedium": "PCS",
+    "Priority": 10,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 38
+  },
+  {
+    "RegionLong": "Turkey",
+    "RegionMedium": "Turkey",
+    "Priority": 11,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 39
+  },
+  {
+    "RegionLong": "Vietnam",
+    "RegionMedium": "Vietnam",
+    "Priority": 12,
+    "IsCurrent": 1,
+    "_pageName": "Metadata:Regions",
+    "_pageTitle": "Regions",
+    "_pageNamespace": 10010,
+    "_pageID": 219070,
+    "_ID": 40
+  },
+  {
+    "RegionLong": "LMS",
+    "RegionMedium": "LMS",
+    "Priority": 1,
+    "IsCurrent": 0,
+    "_pageName": "Metadata:Regions/Inactive",
+    "_pageTitle": "Regions/Inactive",
+    "_pageNamespace": 10010,
+    "_pageID": 357908,
+    "_ID": 25
+  },
+  {
+    "RegionLong": "LAN",
+    "RegionMedium": "LAN",
+    "Priority": 2,
+    "IsCurrent": 0,
+    "_pageName": "Metadata:Regions/Inactive",
+    "_pageTitle": "Regions/Inactive",
+    "_pageNamespace": 10010,
+    "_pageID": 357908,
+    "_ID": 26
+  },
+  {
+    "RegionLong": "LAS",
+    "RegionMedium": "LAS",
+    "Priority": 3,
+    "IsCurrent": 0,
+    "_pageName": "Metadata:Regions/Inactive",
+    "_pageTitle": "Regions/Inactive",
+    "_pageNamespace": 10010,
+    "_pageID": 357908,
+    "_ID": 27
+  },
+  {
+    "RegionLong": "SEA",
+    "RegionMedium": "Southeast Asia",
+    "Priority": 4,
+    "IsCurrent": 0,
+    "_pageName": "Metadata:Regions/Inactive",
+    "_pageTitle": "Regions/Inactive",
+    "_pageNamespace": 10010,
+    "_pageID": 357908,
+    "_ID": 28
+  }
+]

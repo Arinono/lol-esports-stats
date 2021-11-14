@@ -1,0 +1,3735 @@
+[
+  {
+    "Year": 2018,
+    "Champion": "Aatrox",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Lots of CC and damage",
+    "Strengths": "High damage/lots of CC",
+    "Weaknesses": "Easily kited",
+    "Ultimate": "Movement speed, AD",
+    "Mechanic": "Ultimate extends duration upon champion kill/assist",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 1
+  },
+  {
+    "Year": 2018,
+    "Champion": "Ahri",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Burst someone and get out of danger",
+    "Strengths": "Mobility, high damage",
+    "Weaknesses": "Very squishy, needs kills or farm to stay relevant",
+    "Ultimate": "Three dashes and damage",
+    "Mechanic": "",
+    "Classes": [
+      "Assassin"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 2
+  },
+  {
+    "Year": 2018,
+    "Champion": "Akali",
+    "ChampionRange": "Melee",
+    "DamageType": "Hybrid",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Burst backline",
+    "Strengths": "High damage, has stealth , high mobility",
+    "Weaknesses": "Squishy, hard to play,",
+    "Ultimate": "Dash and damage",
+    "Mechanic": "Shroud that gives her True Stealth",
+    "Classes": [
+      "Assassin"
+    ],
+    "Roles": [
+      "Top",
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 3
+  },
+  {
+    "Year": 2018,
+    "Champion": "Alistar",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": "",
+    "Goal": "Help his backline or dive the enemy backline",
+    "Strengths": "High CC, tanky",
+    "Weaknesses": "Can be harassed in lane early, not tanky before 6",
+    "Ultimate": "Breaks CC, makes him really tanky",
+    "Mechanic": "Can combine two spells for a long-range AoE knock-up",
+    "Classes": [
+      "Support",
+      "Tank"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 4
+  },
+  {
+    "Year": 2018,
+    "Champion": "Amumu",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Dive and lock down the backline",
+    "Strengths": "High CC, tanky",
+    "Weaknesses": "Weak in early jungle",
+    "Ultimate": "Snare people in a big area",
+    "Mechanic": "",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 5
+  },
+  {
+    "Year": 2018,
+    "Champion": "Anivia",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Clear waves, create zoning in fights, seperate enemy team",
+    "Strengths": "High waveclear and zone control in the late game",
+    "Weaknesses": "High mana costs, no mobility",
+    "Ultimate": "Do damage over time in an area (toggled on/off, short CD)",
+    "Mechanic": "At 0 HP becomes an egg that needs to be killed again",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 6
+  },
+  {
+    "Year": 2018,
+    "Champion": "Annie",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Stun and burst people",
+    "Strengths": "AoE CC, burst damage",
+    "Weaknesses": "No mobility, low damage after initial burst rotation",
+    "Ultimate": "Summon a bear and do damage",
+    "Mechanic": "Every fifth spell stuns its target via innate ability",
+    "Classes": [
+      "Mage",
+      "Support"
+    ],
+    "Roles": [
+      "Mid",
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 7
+  },
+  {
+    "Year": 2018,
+    "Champion": "Ashe",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Land an arrow (ult) and then autoattack",
+    "Strengths": "Good kiting and initiation for an ADC",
+    "Weaknesses": "Low mobility, low overall damage until late game",
+    "Ultimate": "Fire a global arrow that stuns",
+    "Mechanic": "Automatically crits with every attack if her slow is applied",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 8
+  },
+  {
+    "Year": 2018,
+    "Champion": "Aurelion Sol",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 33,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Exert map control early by roaming to sidelanes",
+    "Strengths": "Strong roaming ability through early and mid game",
+    "Weaknesses": "Worse in the later stages of the game and squishy",
+    "Ultimate": "Deals AoE damage in a line and knocks back enemies",
+    "Mechanic": "3 stars orbit Aurelion Sol that damage all enemies hit",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 9
+  },
+  {
+    "Year": 2018,
+    "Champion": "Azir",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Create zoning in fights, reach backline with soldiers",
+    "Strengths": "Very high damage, waveclear, and utility",
+    "Weaknesses": "Weak early laning phase and low damage vs. tanks",
+    "Ultimate": "Impassable wall that deals damage and knocks people back",
+    "Mechanic": "Abilities work through &quot;Sand Soldiers&quot; which he creates",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 10
+  },
+  {
+    "Year": 2018,
+    "Champion": "Bard",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Ult high priority targets and set up kills with Q (double stun)",
+    "Strengths": "Strong roaming and pick potential",
+    "Weaknesses": "Easy to mess up ultimate usage, Q can be hard to hit",
+    "Ultimate": "AoE spell that puts everyone inside it in stasis",
+    "Mechanic": "Can pick up chimes, which enhance his auto attacks",
+    "Classes": [
+      "Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 11
+  },
+  {
+    "Year": 2018,
+    "Champion": "Blitzcrank",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 67,
+    "Goal": "Kill squishy targets in lane and pull carries in teamfights",
+    "Strengths": "High pick potential due to his hook",
+    "Weaknesses": "Relies entirely on landing his hook",
+    "Ultimate": "Self-centered AoE silence and damage",
+    "Mechanic": "Temporarily gains a shield when his health gets low",
+    "Classes": [
+      "Support",
+      "Tank"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 12
+  },
+  {
+    "Year": 2018,
+    "Champion": "Brand",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Do a lot of damage in an area",
+    "Strengths": "Good AoE damage",
+    "Weaknesses": "Low mobility, has to land skillshots",
+    "Ultimate": "Targeted projectile that bounces between units, damaging",
+    "Mechanic": "",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 13
+  },
+  {
+    "Year": 2018,
+    "Champion": "Braum",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 100,
+    "Goal": "Lock down people in fights and peel for his backline",
+    "Strengths": "High CC, tanky, extremely good at peeling",
+    "Weaknesses": "Doesn't have any way to dash directly to an enemy",
+    "Ultimate": "Knock people up in a line and then slow in that area",
+    "Mechanic": "Shield reduces incoming damage and intercepts projectiles",
+    "Classes": [
+      "Support",
+      "Tank"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 14
+  },
+  {
+    "Year": 2018,
+    "Champion": "Caitlyn",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Sit behind frontline and autoattack enemy",
+    "Strengths": "Long range, even for an ADC",
+    "Weaknesses": "Needs a long time to scale until she does damage",
+    "Ultimate": "Shoot a targeted projectile after a channel delay",
+    "Mechanic": "Traps and Net Extend Caitlyn's basic attack range to target",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 15
+  },
+  {
+    "Year": 2018,
+    "Champion": "Camille",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Apply early map pressure, lock down targets with ult",
+    "Strengths": "High mobility and strong duelist",
+    "Weaknesses": "Squishy and can blow up easily in teamfights",
+    "Ultimate": "Cage an enemy in a hexagonal zone",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top",
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 16
+  },
+  {
+    "Year": 2018,
+    "Champion": "Cassiopeia",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Stun as many people as possible, then DPS and kite",
+    "Strengths": "High sustained damage",
+    "Weaknesses": "No dash or blink, low mobility early game",
+    "Ultimate": "Stun champions facing her and do damage in a cone",
+    "Mechanic": "Cannot purchase boots and move speed scales with level",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 17
+  },
+  {
+    "Year": 2018,
+    "Champion": "Cho'Gath",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical/True",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": "",
+    "Goal": "Catch squishy targets with Q, then burst them",
+    "Strengths": "Very tanky, good CC, strong AoE silence",
+    "Weaknesses": "Very easy to dodge his primary CC",
+    "Ultimate": "Does true damage to a target and gives health if it kills it",
+    "Mechanic": "Kills with his ult give him stacks that increase his health",
+    "Classes": [
+      "Tank",
+      "Mage"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 18
+  },
+  {
+    "Year": 2018,
+    "Champion": "Corki",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical/Hybrid",
+    "CCLevel": 0,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Use E to shred tanks, then focus on bursting squishies",
+    "Strengths": "Both high poke damage and burst, strong roaming",
+    "Weaknesses": "Falls off lategame, can struggle killing tanks",
+    "Ultimate": "Low cooldown missiles, based on ammo system",
+    "Mechanic": "When he has a &quot;package&quot; his next dash is very long range",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 19
+  },
+  {
+    "Year": 2018,
+    "Champion": "Darius",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 100,
+    "Goal": "Soak up damage while healing with Q and ulting squishies",
+    "Strengths": "Good sustain, can shred tanks, strong laning phase",
+    "Weaknesses": "Very easy to kite and easy to kill if locked down",
+    "Ultimate": "Does damage to a target, increased for each passive stack",
+    "Mechanic": "Reset on High True Damage Ultimate",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 20
+  },
+  {
+    "Year": 2018,
+    "Champion": "Diana",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 67,
+    "Goal": "Dive someone squishy and kill them",
+    "Strengths": "High mobility, good damage, strong splitpusher",
+    "Weaknesses": "Very weak if she misses her Q skillshot",
+    "Ultimate": "Dash to someone and deal damage",
+    "Mechanic": "Ult cooldown is reset if cast on a target hit by Q",
+    "Classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle",
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 21
+  },
+  {
+    "Year": 2018,
+    "Champion": "Dr. Mundo",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Dive the backline and soak up damage",
+    "Strengths": "Extremely tanky",
+    "Weaknesses": "Countered by Grievous Wounds, relies on his ultimate",
+    "Ultimate": "After initial health cost, heals a lot based on % max hp",
+    "Mechanic": "UIt heals him for 100% Max HP",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 22
+  },
+  {
+    "Year": 2018,
+    "Champion": "Draven",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Try to snowball from laning phase capitalizing on passive",
+    "Strengths": "Snowballs easily, strong 1v1, high damage",
+    "Weaknesses": "Gets shut down a lot from early deaths, hard to play",
+    "Ultimate": "Throw a global projectile that returns to him",
+    "Mechanic": "Catching axes gives stacks, kills turn stacks into gold",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/A-D",
+    "_pageTitle": "ChampionFlashcards/A-D",
+    "_pageNamespace": 10008,
+    "_pageID": 256462,
+    "_ID": 23
+  },
+  {
+    "Year": 2018,
+    "Champion": "Ekko",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Deal as much damage as possible to carries, then ult out",
+    "Strengths": "Good roaming, very sticky, safe laner",
+    "Weaknesses": "Stun hard to hit and predictable, countered by CC",
+    "Ultimate": "Go back 4 seconds in time, healing and dealing damage",
+    "Mechanic": "Ult heals and blinks him back doing aOE dmg",
+    "Classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "Roles": [
+      "Top",
+      "Mid",
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 24
+  },
+  {
+    "Year": 2018,
+    "Champion": "Elise",
+    "ChampionRange": "Switches",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Gank early game, set up picks with E",
+    "Strengths": "Strong early game and high pick potential, good dmg",
+    "Weaknesses": "Weak if she falls behind, countered by dashes",
+    "Ultimate": "Change forms and skillsets (available at level 1)",
+    "Mechanic": "Can jump into the air and become untargetable",
+    "Classes": [
+      "Fighter",
+      "Mage"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 25
+  },
+  {
+    "Year": 2018,
+    "Champion": "Evelynn",
+    "ChampionRange": "Melee",
+    "DamageType": "Magic",
+    "CCLevel": 100,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Assassinate squishies, set up flanks",
+    "Strengths": "Ganks hard to avoid, high damage if she snowballs",
+    "Weaknesses": "Falls off lategame, easily locked down and bursted",
+    "Ultimate": "AoE damage, Stun",
+    "Mechanic": "Is only visible to enemy champions at close range",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 26
+  },
+  {
+    "Year": 2018,
+    "Champion": "Ezreal",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 0,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Poke prior to fighting, stay safe in fights",
+    "Strengths": "Very mobile, global wave control with ult",
+    "Weaknesses": "Lower DPS than other ADCs, weak early game",
+    "Ultimate": "Throw a global projectile that deals damage",
+    "Mechanic": "Landing Qs reduces other spells' cooldowns",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 27
+  },
+  {
+    "Year": 2018,
+    "Champion": "Fiddlesticks",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Catch enemies by surprise engaging with ult",
+    "Strengths": "Huge damage potential with ult, good jungle clear",
+    "Weaknesses": "Shut down by vision control, very squishy",
+    "Ultimate": "Channel, blink, then self-centered AoE damage over time",
+    "Mechanic": "Point and Click Spammable Fear",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Jungle",
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 28
+  },
+  {
+    "Year": 2018,
+    "Champion": "Fiora",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Use ult on an isolated target and heal after killing them",
+    "Strengths": "High damage, mobile, good splitpusher",
+    "Weaknesses": "Has a hard time team fighting against strong peel",
+    "Ultimate": "Reveals all four of target's vitals, and heals if all are hit",
+    "Mechanic": "Reveals opponent's vitals, dealing extra damage if hit.",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 29
+  },
+  {
+    "Year": 2018,
+    "Champion": "Fizz",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Single out target in teamfight and burst them",
+    "Strengths": "Can go invulnerable, high damage, mobility",
+    "Weaknesses": "Very high mana costs, low waveclear early game",
+    "Ultimate": "Throw a shark that knocks up and deals AoE damage",
+    "Mechanic": "Can jump on his trident and become untargetable",
+    "Classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 30
+  },
+  {
+    "Year": 2018,
+    "Champion": "Galio",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Pushing sidelane then Ult in to creat knock up and dmg reduction area",
+    "Strengths": "High CC and damage potential, tanky for a mage",
+    "Weaknesses": "High mana costs early, too safe to carry",
+    "Ultimate": "Big AoE with dmg reduction and knock up",
+    "Mechanic": "",
+    "Classes": [
+      "Mage",
+      "Tank"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 31
+  },
+  {
+    "Year": 2018,
+    "Champion": "Gangplank",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Survive early game to scale, assist other lanes with ult",
+    "Strengths": "Can cleanse CC, global ult, Barrels do a lot of dmg",
+    "Weaknesses": "Hard to play, weak early game is easy to abuse",
+    "Ultimate": "AoE damage and slow, which can be cast globally",
+    "Mechanic": "Gains more gold when killing minions with Q spell",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 32
+  },
+  {
+    "Year": 2018,
+    "Champion": "Garen",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": "",
+    "Goal": "Soak up damage and dive the backline",
+    "Strengths": "Strong laning, high damage while still being tanky",
+    "Weaknesses": "Very easy to kite, damage falls off late game",
+    "Ultimate": "Targeted ability, deals more damage based on missing HP",
+    "Mechanic": "Regenerates HP over time when out of combat",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 33
+  },
+  {
+    "Year": 2018,
+    "Champion": "Gnar",
+    "ChampionRange": "Switches",
+    "DamageType": "Physical",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Bully enemy laner, manage rage, use ult effectively",
+    "Strengths": "Strong laner, high CC and damage, good splitpusher",
+    "Weaknesses": "Dependent on managing his resource really well",
+    "Ultimate": "Knockback and stun people against terrain if in Mega Gnar",
+    "Mechanic": "Changes between melee and ranged form",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 34
+  },
+  {
+    "Year": 2018,
+    "Champion": "Gragas",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": "",
+    "Goal": "Initiate fights or peel with ult knockback",
+    "Strengths": "Good AoE damage and CC, initiates very well",
+    "Weaknesses": "Somewhat high mana costs, ult is hard to use",
+    "Ultimate": "AoE knockback and damage",
+    "Mechanic": "",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle",
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 35
+  },
+  {
+    "Year": 2018,
+    "Champion": "Graves",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Farm up early game, burst squishies in teamfights",
+    "Strengths": "Fast jungle clear, high burst and relatively tanky",
+    "Weaknesses": "Short range, very farm dependent, struggles vs. tanks",
+    "Ultimate": "Line skillshot, deals damage in a cone behind first unit hit",
+    "Mechanic": "AAs are restricted by &quot;ammunition&quot; which slowly regens",
+    "Classes": [
+      "Marksman",
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 36
+  },
+  {
+    "Year": 2018,
+    "Champion": "Hecarim",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Ult into backline, knock carries into team",
+    "Strengths": "Good at diving, high damage late game",
+    "Weaknesses": "Weak early game, needs to farm a lot",
+    "Ultimate": "Dash, damage, and CC",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 37
+  },
+  {
+    "Year": 2018,
+    "Champion": "Heimerdinger",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Win/push lane, splitpush, apply pressure on towers",
+    "Strengths": "Strong laning, splitpushing and 1v2 potential",
+    "Weaknesses": "No mobility, high mana costs, needs to be near turrets",
+    "Ultimate": "Empowers next spell cast in different ways",
+    "Mechanic": "",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid",
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 38
+  },
+  {
+    "Year": 2018,
+    "Champion": "Illaoi",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Get enemies to dive her and sustain through damage",
+    "Strengths": "Strong laning and high damage if not stunned",
+    "Weaknesses": "Loses all damage if locked down, weak teamfighting",
+    "Ultimate": "AoE damage and spawns tentacles for every champion hit",
+    "Mechanic": "Spawns tentacles on nearby terrain that aid her in fights",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 39
+  },
+  {
+    "Year": 2018,
+    "Champion": "Irelia",
+    "ChampionRange": "Melee",
+    "DamageType": "Mixed",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Dive backline and kill enemy carries by ulting a lot of enemies",
+    "Strengths": "Good dueling, sustain, difficult to CC her",
+    "Weaknesses": "Weak early game, can be easily made useless with CC",
+    "Ultimate": "Aoe that slow/dmg/disarm while creating marks for her Q",
+    "Mechanic": "Reset dash when killing any unit with it",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 40
+  },
+  {
+    "Year": 2018,
+    "Champion": "Ivern",
+    "ChampionRange": "Switches",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 67,
+    "Goal": "Act as another support for his carries and enable them",
+    "Strengths": "High utility, lots of CC and shields",
+    "Weaknesses": "Can fall behind pretty hard, reliant on allies",
+    "Ultimate": "Summon a golem that can CC every 3 hits",
+    "Mechanic": "Sacrifice HP and Mana to clear monsters without hitting them",
+    "Classes": [
+      "Support"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 41
+  },
+  {
+    "Year": 2018,
+    "Champion": "Janna",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 33,
+    "Goal": "Peel for carries and counter-initiate",
+    "Strengths": "High utility, one of the strongest peelers in the game",
+    "Weaknesses": "No primary engage, only counter-engage/disengage",
+    "Ultimate": "Self-centered AoE knockback and heal over time",
+    "Mechanic": "Allies move faster when moving toward her",
+    "Classes": [
+      "Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 42
+  },
+  {
+    "Year": 2018,
+    "Champion": "Jarvan IV",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Initiate fights and seperate carries from team",
+    "Strengths": "Good early ganks, good teamfight disruption",
+    "Weaknesses": "Ultimate is often easily escapable",
+    "Ultimate": "Dash to and cage someone in terrain",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top",
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 43
+  },
+  {
+    "Year": 2018,
+    "Champion": "Jax",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical/Hybrid",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Farm up pre-6, then splitpush",
+    "Strengths": "Good at dueling, can soak a lot of damage",
+    "Weaknesses": "If he's shut down early, will be weak late",
+    "Ultimate": "Temporarily gets tankier, increased damage on every 3rd AA",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 44
+  },
+  {
+    "Year": 2018,
+    "Champion": "Jayce",
+    "ChampionRange": "Switches",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Poke before fights, then focus nearby targets",
+    "Strengths": "Good poke, good all-in, versatile",
+    "Weaknesses": "Fairly squishy, shut down easily by assassins",
+    "Ultimate": "Change forms and skillsets (available at level 1)",
+    "Mechanic": "Has two sets of skills, one set at a time, toggle with ult",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 45
+  },
+  {
+    "Year": 2018,
+    "Champion": "Jhin",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 33,
+    "TankLevel": 33,
+    "Goal": "Provide slows and roots while dealing heavy dmg safely",
+    "Strengths": "Long range, can do high damage safely from afar",
+    "Weaknesses": "Low mobility, needs help against tanks that dive him",
+    "Ultimate": "Fire 4 very long-range projectiles, last one does more dmg",
+    "Mechanic": "Attacks slowly and has 4 ammos he need to recharge",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 46
+  },
+  {
+    "Year": 2018,
+    "Champion": "Jinx",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Kill frontline, then use resets to kill backline",
+    "Strengths": "High AoE damage, strong lategame",
+    "Weaknesses": "Low mobility, weak early game, squishy",
+    "Ultimate": "Global projectile that does AoE damage",
+    "Mechanic": "On kill or assist, gets a large temporary movespeed boost",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/E-J",
+    "_pageTitle": "ChampionFlashcards/E-J",
+    "_pageNamespace": 10008,
+    "_pageID": 256818,
+    "_ID": 47
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kai'Sa",
+    "ChampionRange": "Ranged",
+    "DamageType": "Mixed",
+    "CCLevel": 0,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Get kills on isolated targets with ult and scale to late game",
+    "Strengths": "Great duelist and tank shredder. Snowballs easily",
+    "Weaknesses": "Weak early game and no CC",
+    "Ultimate": "High speed long range dash to marked enemy and a shield",
+    "Mechanic": "Highly mobile, can build virtually any items and is hybrid",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 48
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kalista",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Kite in teamfights, apply Rend stacks with Runaan's",
+    "Strengths": "Very mobile, good objective securing",
+    "Weaknesses": "Very squishy, low damage without support",
+    "Ultimate": "Pulls in tethered partner, then throws them out to knock up",
+    "Mechanic": "Tethers to a partner (usually her support) for the game",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 49
+  },
+  {
+    "Year": 2018,
+    "Champion": "Karma",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Poke in lane, AoE shield in teamfights, kite with carries",
+    "Strengths": "Can engage and disengage, strong poke and peel",
+    "Weaknesses": "Low damage, has to rely on other carries",
+    "Ultimate": "Empowers next spell cast in different ways",
+    "Mechanic": "",
+    "Classes": [
+      "Support",
+      "Mage"
+    ],
+    "Roles": [
+      "Support",
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 50
+  },
+  {
+    "Year": 2018,
+    "Champion": "Karthus",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Farm early game, get as much AoE damage as possible",
+    "Strengths": "High AoE damage, good finisher with ult, scales well",
+    "Weaknesses": "No mobility, weak earlygame, weak vs long range",
+    "Ultimate": "Do damage to enemies globally after a channel",
+    "Mechanic": "Can cast spells for 7 seconds after death, but not move",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 51
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kassadin",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Wait for the right time to go in, then assassinate squishies",
+    "Strengths": "Extremely mobile, high damage late game",
+    "Weaknesses": "High mana costs, weak early game",
+    "Ultimate": "Blink on a short cooldown that also deals damage",
+    "Mechanic": "Takes 10% Reduced Magic Damage",
+    "Classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 52
+  },
+  {
+    "Year": 2018,
+    "Champion": "Katarina",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 0,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Assassinate someone and get resets",
+    "Strengths": "High burst, snowballs extremely hard",
+    "Weaknesses": "Very weak without resets, utlimate easily interrupted",
+    "Ultimate": "Self-centered AoE damage during a channel",
+    "Mechanic": "All cooldowns decreased by 15s on kill or assist",
+    "Classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 53
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kayle",
+    "ChampionRange": "Switches",
+    "DamageType": "Magical/Hybrid",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Do lots of sustained AoE damage, ult priority teammates",
+    "Strengths": "",
+    "Weaknesses": "Weak laning and early game, needs good target to ult",
+    "Ultimate": "Make an ally invulnerable for a short time",
+    "Mechanic": "Casting E makes AAs ranged and deal splash damage",
+    "Classes": [
+      "Mage",
+      "Fighter"
+    ],
+    "Roles": [
+      ""
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 54
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kayn",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Get his evolution quickly by ganking",
+    "Strengths": "Can snowball very easily with his form",
+    "Weaknesses": "Double-edged sword which can be put shutdown",
+    "Ultimate": "Enters enemy champion and deals damage after a few sec",
+    "Mechanic": "Has 2 different evolved forms, an assassin and a fighter",
+    "Classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 55
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kennen",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Flank in teamfights, CC and burst priority targets",
+    "Strengths": "Lane bully, good AoE damage and CC",
+    "Weaknesses": "Squishy for an initiator, falls off late game",
+    "Ultimate": "Self-centered AoE damage that can stun",
+    "Mechanic": "",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Top",
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 56
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kha'Zix",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Wait for the right time to go in, then assassinate squishies",
+    "Strengths": "Strong 1v1, high damage to isolated targets",
+    "Weaknesses": "Slow early jungle, easily locked down, weak teamfighter",
+    "Ultimate": "Go invisible and gain movespeed",
+    "Mechanic": "Does more damage to isolated targets",
+    "Classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 57
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kindred",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Exert jungle control and snowball early stats gain",
+    "Strengths": "Strong duelling and ultimate can turn fights around",
+    "Weaknesses": "Has to farm a lot before becoming useful",
+    "Ultimate": "Create a short-duration AoE in which nothing can die",
+    "Mechanic": "Gains stats by farming &quot;marked&quot; enemy jungle camps",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 58
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kled",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Dive backline and stick onto squishies",
+    "Strengths": "High stickiness, high damage when ignored",
+    "Weaknesses": "If focused, loses mount and becomes much weaker",
+    "Ultimate": "Charges in a direction, giving movement speed to allies",
+    "Mechanic": "Has 2 health bars due to Kled's mount (Skaarl)",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 59
+  },
+  {
+    "Year": 2018,
+    "Champion": "Kog'Maw",
+    "ChampionRange": "Ranged",
+    "DamageType": "Hybrid",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Stay back and wait for the correct moment to DPS with W",
+    "Strengths": "Good lategame, damage often comes unexpected",
+    "Weaknesses": "No mobility, has to stand still to maximize DPS",
+    "Ultimate": "Very short CD small AoE damage, very long range",
+    "Mechanic": "Explodes after a short delay upon death, dealing true dmg",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 60
+  },
+  {
+    "Year": 2018,
+    "Champion": "LeBlanc",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Assassinate squishies, bully enemy laner",
+    "Strengths": "Very high burst damage, strong laning",
+    "Weaknesses": "Main damage spell is her escape, falls off late, squishy",
+    "Ultimate": "Cast most recently casted ability a second time",
+    "Mechanic": "When HP reaches 40%, goes invisible &amp; spawns a clone",
+    "Classes": [
+      "Assassin",
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 61
+  },
+  {
+    "Year": 2018,
+    "Champion": "Lee Sin",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 67,
+    "Goal": "Bully enemy jungler, gank early, kick carries into team",
+    "Strengths": "Very mobile, great early game ganks, high damage",
+    "Weaknesses": "Falls off late game, very hard to play",
+    "Ultimate": "Dmg &amp; knockback 1 target, knock up in knockback path",
+    "Mechanic": "Each ability has two activations with different effects",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 62
+  },
+  {
+    "Year": 2018,
+    "Champion": "Leona",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "CC enemy carries with ult, then either dive or peel",
+    "Strengths": "Very tanky, ultimate has low cooldown, high CC",
+    "Weaknesses": "No sustain or poke, can only all-in",
+    "Ultimate": "AoE Stun/Slow from long range",
+    "Mechanic": "",
+    "Classes": [
+      "Support",
+      "Tank"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 63
+  },
+  {
+    "Year": 2018,
+    "Champion": "Lissandra",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Lock down enemy team, particularly backline",
+    "Strengths": "Good waveclear, hard to kill, good lockdown",
+    "Weaknesses": "Short range, fails to burst enemies if she falls behind",
+    "Ultimate": "Stun someone or go untargetable and AoE slow+damage",
+    "Mechanic": "",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 64
+  },
+  {
+    "Year": 2018,
+    "Champion": "Lucian",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 0,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Kite frontline until he can burst enemy squishies",
+    "Strengths": "Mobile, very good kiting, long range with ult",
+    "Weaknesses": "Weak laning against certain matchups, short range AA",
+    "Ultimate": "Fires a line of bolts in the targeted direction",
+    "Mechanic": "",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 65
+  },
+  {
+    "Year": 2018,
+    "Champion": "Lulu",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Peel for carries, CC diving enemies, kite with team",
+    "Strengths": "High utility, very versatile, good poke in lane",
+    "Weaknesses": "Squishy, low damage, needs fed carry to be useful",
+    "Ultimate": "Give an ally health and knock up around them",
+    "Mechanic": "Has a pet called Pix that be placed on enemies or allies",
+    "Classes": [
+      "Support",
+      "Mage"
+    ],
+    "Roles": [
+      "Mid",
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 66
+  },
+  {
+    "Year": 2018,
+    "Champion": "Lux",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Poke enemy laner, set up picks and burst squishies",
+    "Strengths": "Good waveclear, decent CC, high burst, very safe",
+    "Weaknesses": "Has to land skillshots, low mobility, squishy",
+    "Ultimate": "AoE damage in a line that deals high damage",
+    "Mechanic": "",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 67
+  },
+  {
+    "Year": 2018,
+    "Champion": "Malphite",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 100,
+    "Goal": "Initiate fights with ult, soak up damage in teamfights",
+    "Strengths": "Good engage, very tanky",
+    "Weaknesses": "Weak laner, high mana costs, relies on hitting his ult",
+    "Ultimate": "Dash forward to knock up in an AoE",
+    "Mechanic": "Gains a shield after not taking damage for a short time",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 68
+  },
+  {
+    "Year": 2018,
+    "Champion": "Malzahar",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Single out target in teamfights with ult, apply AoE damage",
+    "Strengths": "Good waveclear, lots of AoE damage",
+    "Weaknesses": "Immobile, ult has to be channeled",
+    "Ultimate": "Channel to suppress an enemy champion, dealing damage",
+    "Mechanic": "Gains a shield giving CC immunity every few seconds",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 69
+  },
+  {
+    "Year": 2018,
+    "Champion": "Maokai",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": "",
+    "Goal": "Reduce damage with ult, dive enemy backline",
+    "Strengths": "Very tanky, good CC, safe laner",
+    "Weaknesses": "High mana costs, main form of CC is short-ranged",
+    "Ultimate": "Reduce damage taken by allies in self-centered AoE",
+    "Mechanic": "",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 70
+  },
+  {
+    "Year": 2018,
+    "Champion": "Master Yi",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 0,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Wait for the right time to go in, then clean up teamfights",
+    "Strengths": "High damage if ignored, good splitpusher, strong 1v1",
+    "Weaknesses": "Easily killed if locked down, needs to farm early game",
+    "Ultimate": "While active, immune to slows and skills reset on kill/assist",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 71
+  },
+  {
+    "Year": 2018,
+    "Champion": "Miss Fortune",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Harass with Q in lane, ult as many people as possible",
+    "Strengths": "Lane-dominant, AoE damage in fights",
+    "Weaknesses": "Low DPS lategame for an ADC, immobile in fights",
+    "Ultimate": "Deals AoE damage in a cone for several seconds",
+    "Mechanic": "",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 72
+  },
+  {
+    "Year": 2018,
+    "Champion": "Mordekaiser",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 0,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Ult enemy carry and kill them to utilize the ghost",
+    "Strengths": "High damage, permaslow with Rylais and his ult",
+    "Weaknesses": "Easily killed if locked down, easy to kite",
+    "Ultimate": "DoT to the target, get a ghost of them that AAs if they die",
+    "Mechanic": "Gets a ghost of Dragon if he assists in killing it",
+    "Classes": [
+      "Mage",
+      "Fighter"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 73
+  },
+  {
+    "Year": 2018,
+    "Champion": "Morgana",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 33,
+    "TankLevel": 33,
+    "Goal": "CC enemy priority targets, peel for carries with E",
+    "Strengths": "High pick potential, good waveclear and peel",
+    "Weaknesses": "Relies on hitting her Q, low mobility",
+    "Ultimate": "Tether to nearby enemies, stun if tether not broken",
+    "Mechanic": "Shield prevents allies from being affected by CC",
+    "Classes": [
+      "Mage",
+      "Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/K-M",
+    "_pageTitle": "ChampionFlashcards/K-M",
+    "_pageNamespace": 10008,
+    "_pageID": 256819,
+    "_ID": 74
+  },
+  {
+    "Year": 2018,
+    "Champion": "Nami",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Peel for carries, use ult as disengage or secondary engage",
+    "Strengths": "Very versatile, good lane sustain, poke and CC",
+    "Weaknesses": "No waveclear, very squishy",
+    "Ultimate": "Long, slow-traveling AoE knockup+slow in line in front",
+    "Mechanic": "",
+    "Classes": [
+      "Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 75
+  },
+  {
+    "Year": 2018,
+    "Champion": "Nasus",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 33,
+    "SustainedLevel": 100,
+    "TankLevel": 100,
+    "Goal": "Splitpush; or, in fights, dive enemy ADC and soak damage",
+    "Strengths": "Snowballs well if not shut down, strong late game",
+    "Weaknesses": "Needs to stack Q, easy to kite, can be shut down early",
+    "Ultimate": "Size increase, gets bonus stats, self-centered AoE damage",
+    "Mechanic": "Last-hitting a unit with Q permanently adds damage to Q",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 76
+  },
+  {
+    "Year": 2018,
+    "Champion": "Nautilus",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 100,
+    "Goal": "Lock down enemy carries with CC, soak up damage",
+    "Strengths": "Lots of CC, high damage for being tanky",
+    "Weaknesses": "Weak laning, no disengage, low mobility",
+    "Ultimate": "Knocks up target and everyone in the path in between",
+    "Mechanic": "First autoattack against a target roots it",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Support",
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 77
+  },
+  {
+    "Year": 2018,
+    "Champion": "Nidalee",
+    "ChampionRange": "Switches",
+    "DamageType": "Magical",
+    "CCLevel": 0,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 67,
+    "Goal": "Poke with Q, follow up to burst target if safe",
+    "Strengths": "Fast jungle clear, strong poke but also high burst",
+    "Weaknesses": "No CC, easily crowd-controlled in teamfights",
+    "Ultimate": "Change forms and skillsets (available at level 1)",
+    "Mechanic": "Can shapeshift using her ult, giving her different skill sets",
+    "Classes": [
+      "Mage",
+      "Assassin"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 78
+  },
+  {
+    "Year": 2018,
+    "Champion": "Nocturne",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Initiate fights or make picks with ult",
+    "Strengths": "Good diving and ganks after 6, high damage",
+    "Weaknesses": "Weak ganks without ult, weak vs. mobile champions",
+    "Ultimate": "Decrease enemy vision, then dive at an enemy",
+    "Mechanic": "Ultimate makes enemy team unable to see",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 79
+  },
+  {
+    "Year": 2018,
+    "Champion": "Nunu",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 100,
+    "SustainedLevel": 33,
+    "TankLevel": 100,
+    "Goal": "Counterjungle, engage fight with his snowball",
+    "Strengths": "Can lock an enemy, good HP regeneration with Q spell",
+    "Weaknesses": "Ultimate hard to land",
+    "Ultimate": "Channel self-centered AoE slow with a shield, release for damage",
+    "Mechanic": "",
+    "Classes": [
+      "Tank",
+      "Mage"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 80
+  },
+  {
+    "Year": 2018,
+    "Champion": "Olaf",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 100,
+    "Goal": "Splitpush or dive enemy carries in teamfights",
+    "Strengths": "Good at chasing, strong laner, has true damage",
+    "Weaknesses": "High mana costs, easily killed if focused",
+    "Ultimate": "Gain crowd control immunity for a short duration",
+    "Mechanic": "Stepping on his axe resets the cooldown to cast it",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 81
+  },
+  {
+    "Year": 2018,
+    "Champion": "Orianna",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Use ult at the exact right time &amp; position in teamfights",
+    "Strengths": "Both high utility and damage, high potential with ult",
+    "Weaknesses": "Not a ton of burst, low mobility, easy to misplay",
+    "Ultimate": "AoE around her ball that damages and pulls in enemies",
+    "Mechanic": "All spell casts are centered around her ball",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 82
+  },
+  {
+    "Year": 2018,
+    "Champion": "Ornn",
+    "ChampionRange": "Melee",
+    "DamageType": "Mixed",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Set up great TF with Ult and combo",
+    "Strengths": "Strong laning, strong TF, multiple knock up",
+    "Weaknesses": "Very mana reliant, can be put behind early, can be kited",
+    "Ultimate": "Large AoE that can slow then knock up",
+    "Mechanic": "Can shop anywhere on the map, extends CC with Brittle",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 83
+  },
+  {
+    "Year": 2018,
+    "Champion": "Pantheon",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 67,
+    "Goal": "Exert global pressure with ult, assassinate a squishy",
+    "Strengths": "Good map pressure and high damage early game",
+    "Weaknesses": "Falls off lategame, needs to snowball",
+    "Ultimate": "Channel and then jump to another part of the map",
+    "Mechanic": "Passive blocks auto attacks occasionally",
+    "Classes": [
+      "Fighter",
+      "Assassin"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 84
+  },
+  {
+    "Year": 2018,
+    "Champion": "Poppy",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Reposition frontline with ult and kill backline",
+    "Strengths": "Very tanky, good disengage with ult",
+    "Weaknesses": "Weak early laning, easy to kite",
+    "Ultimate": "Skillshot that catapults everyone hit in direction of their base",
+    "Mechanic": "Throws a buckler every few seconds that can give a shield",
+    "Classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "Roles": [
+      "Top",
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 85
+  },
+  {
+    "Year": 2018,
+    "Champion": "Pyke",
+    "ChampionRange": "Melee",
+    "DamageType": "Physcal",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Sustain through laning, playmaker in mid game",
+    "Strengths": "Good Engage/Disengage, execute, sustain",
+    "Weaknesses": "can't get extra HP, high CD on abilities, low damage alone",
+    "Ultimate": "Execute that reset after a kill",
+    "Mechanic": "Heals burst damage with passive, share gold with ult",
+    "Classes": [
+      "Assassin",
+      " Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 86
+  },
+  {
+    "Year": 2018,
+    "Champion": "Quinn",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Use ult to roam and burst squishy targets",
+    "Strengths": "Can cover long distances and has high burst with ult",
+    "Weaknesses": "Has no escape abilities, making her easy to gank",
+    "Ultimate": "Calls down Valor, increasing movement speed",
+    "Mechanic": "",
+    "Classes": [
+      "Marksman",
+      "Fighter"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 87
+  },
+  {
+    "Year": 2018,
+    "Champion": "Rakan",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magic",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 33,
+    "TankLevel": 67,
+    "Goal": "Sustain through early game and look for picks",
+    "Strengths": "Highly mobile and quick engages",
+    "Weaknesses": "Very squishy if caught while engaging",
+    "Ultimate": "Runs fast and charms enemies he comes in contact with",
+    "Mechanic": "",
+    "Classes": [
+      "Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 88
+  },
+  {
+    "Year": 2018,
+    "Champion": "Rammus",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Taunt a priority target and soak damage, gank early",
+    "Strengths": "Very tanky, long-duration hard CC, strong ganks",
+    "Weaknesses": "Slow jungle clear, can be kited if slowed",
+    "Ultimate": "Self-centered AoE damage over time",
+    "Mechanic": "Gains bonus attack damage from building armor",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 89
+  },
+  {
+    "Year": 2018,
+    "Champion": "Rek'Sai",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 100,
+    "Goal": "Gank early, counterjungle, soak up damage in teamfights",
+    "Strengths": "Huge mobility, strong ganks, fast jungle clear",
+    "Weaknesses": "Needs to snowball laners and find ganks",
+    "Ultimate": "Leap at an enemy to deal massive damage",
+    "Mechanic": "When burrowed, loses vision &amp; gains longrange &quot;radar&quot;",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 90
+  },
+  {
+    "Year": 2018,
+    "Champion": "Renekton",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Bully enemy laner, kill carries in teamfights",
+    "Strengths": "Strong laner, high damage, versatile build path",
+    "Weaknesses": "Falls off lategame, reliant on snowballing",
+    "Ultimate": "Size increase, self-centered AoE damage",
+    "Mechanic": "Has a special resource that can empower spells",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 91
+  },
+  {
+    "Year": 2018,
+    "Champion": "Rengar",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Farm until 6, then assassinate people with ult",
+    "Strengths": "Easily kills squishies, can gank with stealth",
+    "Weaknesses": "Easily killed if locked down, weak early jungle clear",
+    "Ultimate": "Stealth, reveal nearby enemy champions, leap to someone",
+    "Mechanic": "Has a special resouce that enhances his spells",
+    "Classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 92
+  },
+  {
+    "Year": 2018,
+    "Champion": "Riven",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Bully enemy laner, kill carries in teamfights",
+    "Strengths": "Very mobile, high damage, strong laner",
+    "Weaknesses": "Easily killed if locked down, falls off late game",
+    "Ultimate": "Gain offensive stats and then deal AoE cone damage",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top",
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 93
+  },
+  {
+    "Year": 2018,
+    "Champion": "Rumble",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Teamfight at choke points &amp; deal AoE damage with ult",
+    "Strengths": "Very good zone control, midgame power spike",
+    "Weaknesses": "Low mobility, easy to gank, relies on ult",
+    "Ultimate": "AoE damage and slow in a longrange rectangle",
+    "Mechanic": "Has a special resource called Heat",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 94
+  },
+  {
+    "Year": 2018,
+    "Champion": "Ryze",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Burst enemy squishies or CC chain frontline",
+    "Strengths": "High damage, strong roaming with rank 2+ ult",
+    "Weaknesses": "Weak early game, low range",
+    "Ultimate": "Teleports everyone in an AoE to target location after delay",
+    "Mechanic": "Can charge up runes which are consumed when he uses Q",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/N-R",
+    "_pageTitle": "ChampionFlashcards/N-R",
+    "_pageNamespace": 10008,
+    "_pageID": 256820,
+    "_ID": 95
+  },
+  {
+    "Year": 2018,
+    "Champion": "Sejuani",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 100,
+    "Goal": "Farm up early, CC priority targets, soak up damage",
+    "Strengths": "Very tanky, lots of CC",
+    "Weaknesses": "Low damage, ult is a skillshot",
+    "Ultimate": "Skillshot that AoE stuns or slows on impact",
+    "Mechanic": "",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 96
+  },
+  {
+    "Year": 2018,
+    "Champion": "Shaco",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Snowball off early ganks with stealth, assassinate carries",
+    "Strengths": "Strong early game, good ganks, high burst, stealth",
+    "Weaknesses": "Squishy, falls off lategame, has to snowball",
+    "Ultimate": "Make a clone of himself",
+    "Mechanic": "Deals more damage from behind a target",
+    "Classes": [
+      "Assassin",
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 97
+  },
+  {
+    "Year": 2018,
+    "Champion": "Shen",
+    "ChampionRange": "Melee",
+    "DamageType": "Hybrid",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": "",
+    "Goal": "Splitpush, ult an ally if a fight is engaged",
+    "Strengths": "Very tanky, AoE taunt, strong splitpusher",
+    "Weaknesses": "Low waveclear, weak against targets with dashes",
+    "Ultimate": "Give an ally a shield and teleport to them",
+    "Mechanic": "Accompanied by a spirit blade that he controls with abilities",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 98
+  },
+  {
+    "Year": 2018,
+    "Champion": "Shyvana",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Farm up early, counterjungle, splitpush, dive carries",
+    "Strengths": "Fast jungle clear, strong duelling, mobile",
+    "Weaknesses": "Low CC, not good at teamfighting, gets kited easily",
+    "Ultimate": "Become a dragon and jump at people, knocking them back",
+    "Mechanic": "Has a special resource that lets her cast her ultimate",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 99
+  },
+  {
+    "Year": 2018,
+    "Champion": "Singed",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 33,
+    "SustainedLevel": 100,
+    "TankLevel": 100,
+    "Goal": "Fling squishy into team, distract enemies, soak up damage",
+    "Strengths": "Demands jungle attention, hard to kill if ahead",
+    "Weaknesses": "Gets kited easily, has to put himself in danger to DPS",
+    "Ultimate": "Gains various stats, including movement speed",
+    "Mechanic": "Can run faster when near multiple champions",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 100
+  },
+  {
+    "Year": 2018,
+    "Champion": "Sion",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": "",
+    "Goal": "Dive backline, soak up damage, CC enemy backline",
+    "Strengths": "Very tanky, good engage, can ult to escape ganks",
+    "Weaknesses": "Easily kited, high mana costs early, low damage",
+    "Ultimate": "Long-range charge that stuns people on impact",
+    "Mechanic": "Can move and attack after dying for a short time",
+    "Classes": [
+      "Tank",
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 101
+  },
+  {
+    "Year": 2018,
+    "Champion": "Sivir",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 0,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Engage with ult, use Ricochet on frontline to bounce",
+    "Strengths": "Strong waveclear, good engage, good late game",
+    "Weaknesses": "Shorter range and lower damage than most ADCs",
+    "Ultimate": "Movespeed bonus to herself and nearby allies",
+    "Mechanic": "Can cast a shield to neglect an enemy spell",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 102
+  },
+  {
+    "Year": 2018,
+    "Champion": "Skarner",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 67,
+    "Goal": "Pull in priority target, soak up damage, counterjungle",
+    "Strengths": "Good at creating picks with ult, strong duelling",
+    "Weaknesses": "Weak ganks without ult, easy to kite, needs items",
+    "Ultimate": "Suppress someone and drag them",
+    "Mechanic": "Massive stat boosts when near Spires he controls",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 103
+  },
+  {
+    "Year": 2018,
+    "Champion": "Sona",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Poke and bully in lane, hit a good ult in teamfights",
+    "Strengths": "Good trading in lane and high CC potential in fights",
+    "Weaknesses": "Very squishy, needs to hit ult to be useful in fights",
+    "Ultimate": "AoE stun and damage in a line",
+    "Mechanic": "After casting 3 spells, her next AA has a bonus effect",
+    "Classes": [
+      "Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 104
+  },
+  {
+    "Year": 2018,
+    "Champion": "Soraka",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Sustain during fights and lane, use ult to assist other lanes",
+    "Strengths": "Strong healing, AoE silence, global heal on ult",
+    "Weaknesses": "Low CC, low mobility",
+    "Ultimate": "Heal everyone globally",
+    "Mechanic": "Moves rapidly towards low health allies",
+    "Classes": [
+      "Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 105
+  },
+  {
+    "Year": 2018,
+    "Champion": "Swain",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 100,
+    "Goal": "Activate ult and sustain in fights, DPSing",
+    "Strengths": "Lots of sustain and sustained damage",
+    "Weaknesses": "Low mobility, high mana costs",
+    "Ultimate": "Self-centered AoE DoT and self-heal that can be released for a burst",
+    "Mechanic": "Get soul fragment with W or passive",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 106
+  },
+  {
+    "Year": 2018,
+    "Champion": "Syndra",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Bully enemy laner, create picks with E, burst squishies",
+    "Strengths": "High pick potential and burst, good laning",
+    "Weaknesses": "Low mobility, falls off lategame, hard to play",
+    "Ultimate": "Bursts a target, damage depends on number of spheres",
+    "Mechanic": "Spells gain additional effects when maxed",
+    "Classes": [
+      "Mage",
+      "Assassin"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 107
+  },
+  {
+    "Year": 2018,
+    "Champion": "Tahm Kench",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Initiate with ult, save allies with W, slow/stun with Q",
+    "Strengths": "Very tanky but still high damage, W can turn fights",
+    "Weaknesses": "Weak laning, doesn't offer much after using W",
+    "Ultimate": "Teleports himself and optionally an ally after a short delay",
+    "Mechanic": "Can &quot;swallow&quot; enemies and allies",
+    "Classes": [
+      "Support",
+      "Tank"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 108
+  },
+  {
+    "Year": 2018,
+    "Champion": "Taliyah",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Utilize her passive movement speed to impact multiple lanes",
+    "Strengths": "Great early ganker and has teamfight control with ult",
+    "Weaknesses": "Reliant on teammates positioning in order to utilize her CC",
+    "Ultimate": "Create a long range wall and can travel along it",
+    "Mechanic": "Can create walls and has very fast roams",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 109
+  },
+  {
+    "Year": 2018,
+    "Champion": "Talon",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Farm until 6, then all-in, assassinate enemy carries",
+    "Strengths": "Strong AoE damage for an assassin, low CD on ult",
+    "Weaknesses": "Not the strongest pre-6, useless if behind",
+    "Ultimate": "Stealth, do damage via blades that expand and contract",
+    "Mechanic": "",
+    "Classes": [
+      "Assassin"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 110
+  },
+  {
+    "Year": 2018,
+    "Champion": "Taric",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 100,
+    "Goal": "Provide utility, especually with stun &amp; ult",
+    "Strengths": "Extremely high-impact ult, strong CC with E",
+    "Weaknesses": "Heavily punished by long-range champions",
+    "Ultimate": "AoE that makes everyone inside it invulnerable",
+    "Mechanic": "Can grant invulnerability to his team.",
+    "Classes": [
+      "Support",
+      "Tank"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 111
+  },
+  {
+    "Year": 2018,
+    "Champion": "Teemo",
+    "ChampionRange": "Ranged",
+    "DamageType": "Hybrid",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Bully enemy laner, splitpush",
+    "Strengths": "Strong duelling and laning, good splitpusher",
+    "Weaknesses": "Not good in teamfights, squishy, easy to gank",
+    "Ultimate": "Puts down a shroom which can explode to deal damage",
+    "Mechanic": "Turns invisible by standing still, stays invisible in bush",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 112
+  },
+  {
+    "Year": 2018,
+    "Champion": "Thresh",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": 67,
+    "Goal": "Initiate, peel, lock down targets, save allies with lantern",
+    "Strengths": "Versatile kit, extremely powerful if used correctly",
+    "Weaknesses": "Hard to play, relies on hitting hook",
+    "Ultimate": "Make a box that slows enemies going through it",
+    "Mechanic": "Collects souls from dead enemy units, giving him stats",
+    "Classes": [
+      "Support"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 113
+  },
+  {
+    "Year": 2018,
+    "Champion": "Tristana",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Farm up, destroy towers with E, teamfight late game",
+    "Strengths": "High damage to towers, high DPS late game",
+    "Weaknesses": "Can't freeze lane due to her E, low early damage",
+    "Ultimate": "Knocks target back and deals damage",
+    "Mechanic": "Jump cooldown resets on kill and assists",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 114
+  },
+  {
+    "Year": 2018,
+    "Champion": "Trundle",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Steal stats from a tank with ult, then dive enemy backline",
+    "Strengths": "Gets free tank stats from ult, strong splitpusher",
+    "Weaknesses": "Not the strongest teamfighter, can be kited",
+    "Ultimate": "Steal defense stats and a portion of health from an enemy",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 115
+  },
+  {
+    "Year": 2018,
+    "Champion": "Tryndamere",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Bully lane, demand attention from enemy jungler, splitpush",
+    "Strengths": "Good at duelling, strong splitpusher, high damage",
+    "Weaknesses": "Weak at teamfighting, can be kited easily",
+    "Ultimate": "Become unkillable for a short duration",
+    "Mechanic": "Has a special resource that gives him crit chance",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 116
+  },
+  {
+    "Year": 2018,
+    "Champion": "Twisted Fate",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Gank with ult, initiate fights with ult and/or splitpush",
+    "Strengths": "Global pressure, waveclear, good initiation",
+    "Weaknesses": "Weak laner, easily ganked, high cooldown on ult",
+    "Ultimate": "Reveal all enemies on the map, then teleport to a location",
+    "Mechanic": "Can teleport over long distances and provide vision on enemies",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 117
+  },
+  {
+    "Year": 2018,
+    "Champion": "Twitch",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Pick off squishy targets, flank with Q to initiate teamfights",
+    "Strengths": "High burst on squishies, good AoE damage",
+    "Weaknesses": "No direct escapes, can be bursted or picked off easily",
+    "Ultimate": "AAs become long-ranged and AoE, also gets bonus AD",
+    "Mechanic": "Q allows him to enter stealth, resets on kills and assists",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/S-T",
+    "_pageTitle": "ChampionFlashcards/S-T",
+    "_pageNamespace": 10008,
+    "_pageID": 256821,
+    "_ID": 118
+  },
+  {
+    "Year": 2018,
+    "Champion": "Udyr",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": 100,
+    "Goal": "Farm up early, counterjungle, splitpush",
+    "Strengths": "Strong duelling, fast jungle clear, very versatile",
+    "Weaknesses": "Easy to kite, not the strongest ganks",
+    "Ultimate": "N/A",
+    "Mechanic": "Has no ults but instead 4 different forms",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 119
+  },
+  {
+    "Year": 2018,
+    "Champion": "Urgot",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 100,
+    "Goal": "Scales with game length and becomes unkillable",
+    "Strengths": "Safe laner and good teamfighter",
+    "Weaknesses": "Low range and easily kitted",
+    "Ultimate": "Marks and execute an enemy at low hp and fear nearby enemies",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 120
+  },
+  {
+    "Year": 2018,
+    "Champion": "Varus",
+    "ChampionRange": "Ranged",
+    "DamageType": "Hybrid",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Poke with Q, create picks with ult, siege",
+    "Strengths": "Very high poke on a low CD, has hard CC",
+    "Weaknesses": "Low mobility, easy to dive, falls off late game",
+    "Ultimate": "Skillshot snare that spreads to snare nearby enemies too",
+    "Mechanic": "",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 121
+  },
+  {
+    "Year": 2018,
+    "Champion": "Vayne",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 33,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Farm up, teamfight late game",
+    "Strengths": "High mobility, shreds tanks, high damage late game",
+    "Weaknesses": "Very weak early, no waveclear",
+    "Ultimate": "Gains AD and is able to stealth with Q",
+    "Mechanic": "Shreds resistances through the usage of true damage",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 122
+  },
+  {
+    "Year": 2018,
+    "Champion": "Veigar",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Seperate enemy team with E, burst squishies",
+    "Strengths": "Very high single-target damage",
+    "Weaknesses": "Low mobility, weak early laning, has trouble killing tanks",
+    "Ultimate": "Damage nuke, does more damage to units at low % HP",
+    "Mechanic": "Can stack AP indefinitely with his Q",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 123
+  },
+  {
+    "Year": 2018,
+    "Champion": "Vel'Koz",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Proc passive on targets and then kill with ult",
+    "Strengths": "High damage, long-range poke, good waveclear",
+    "Weaknesses": "Low mobility, needs passive to do meaningful damage",
+    "Ultimate": "Channels a ray of energy that follows cursor for 2.5 seconds",
+    "Mechanic": "Shreds resistances through the usage of true damage",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 124
+  },
+  {
+    "Year": 2018,
+    "Champion": "Vi",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 100,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Farm until 6, then gank, ult carries in teamfights",
+    "Strengths": "Good initiation and crowd control, strong ganks",
+    "Weaknesses": "Early jungle clear is weak, can be peeled in teamfights",
+    "Ultimate": "Dash to an enemy, knock them and everyone in the path up",
+    "Mechanic": "",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 125
+  },
+  {
+    "Year": 2018,
+    "Champion": "Viktor",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Zone in teamfights with W and ult, burst squishies",
+    "Strengths": "Strong waveclear, has both burst and sustained dmg",
+    "Weaknesses": "Low mobility, easily killed by people with gap closers",
+    "Ultimate": "Summons a chaos storm that deals AoE damage",
+    "Mechanic": "Has a special item that he can upgrade to buff his spells",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 126
+  },
+  {
+    "Year": 2018,
+    "Champion": "Vladimir",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Use pool to escape danger, sustain &amp; damage in fights",
+    "Strengths": "Lots of sustain and good lategame damage",
+    "Weaknesses": "No hard CC, weak in lane early due to long CD on Q",
+    "Ultimate": "AoE that amplifies damage taken and also deals damage",
+    "Mechanic": "Hemomancer that works around high amount of heals",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Top",
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 127
+  },
+  {
+    "Year": 2018,
+    "Champion": "Volibear",
+    "ChampionRange": "Melee",
+    "DamageType": "Hybrid",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 67,
+    "TankLevel": "",
+    "Goal": "Fling a priority target and soak up damage",
+    "Strengths": "Very tanky, good damage considering tankiness",
+    "Weaknesses": "Easy to kite, damage falls off late game",
+    "Ultimate": "AAs create lightning that does damage and bounces",
+    "Mechanic": "Regenerates HP very quickly when his HP drops low",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 128
+  },
+  {
+    "Year": 2018,
+    "Champion": "Warwick",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Easy gank on low HP target, ult priority targets in teamfights",
+    "Strengths": "Good sustain in the jungle, easy to play",
+    "Weaknesses": "Ult can be interrupted, very squishy early",
+    "Ultimate": "Jump to target, channel to suppress them and deal damage",
+    "Mechanic": "Runs faster toward low health enemies",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 129
+  },
+  {
+    "Year": 2018,
+    "Champion": "Wukong",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 33,
+    "TankLevel": 33,
+    "Goal": "Has great early game damage, great teamfighting ult",
+    "Strengths": "Good damage and AoE CC in fights",
+    "Weaknesses": "Can be kited and locked down easily",
+    "Ultimate": "Spins to create self-centered AoE knockup and damage",
+    "Mechanic": "Can create a clone to juke opponents",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 130
+  },
+  {
+    "Year": 2018,
+    "Champion": "Xayah",
+    "ChampionRange": "Ranged",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Farm up and become a hypercarry",
+    "Strengths": "Late game hypercarry with high sustained damage",
+    "Weaknesses": "Squishy and very telegraphed abilities",
+    "Ultimate": "Becomes untargetable and unleash feathers in a cone",
+    "Mechanic": "Leaves feathers on the ground after attacking",
+    "Classes": [
+      "Marksman"
+    ],
+    "Roles": [
+      "Bot"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 131
+  },
+  {
+    "Year": 2018,
+    "Champion": "Xerath",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 33,
+    "TankLevel": 33,
+    "Goal": "Waveclear, poke, ult from afar to secure kills",
+    "Strengths": "Very long range, good waveclear, safe poke",
+    "Weaknesses": "Low mobility, needs to AA to not run out of mana",
+    "Ultimate": "Roots Xerath and lets him cast 3 to 5 AoE barrages",
+    "Mechanic": "",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 132
+  },
+  {
+    "Year": 2018,
+    "Champion": "Xin Zhao",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 67,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Gank early to snowball lanes, counterjungle, dive backline",
+    "Strengths": "Good early ganks, good teamfight disruption",
+    "Weaknesses": "Easily kited, no disengage after going in",
+    "Ultimate": "Knock back all champions except for one marked champion",
+    "Mechanic": "Forces enemies to be close in order to deal damage to Xin",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 133
+  },
+  {
+    "Year": 2018,
+    "Champion": "Yasuo",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 67,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Dive enemy backline with ult, splitpush",
+    "Strengths": "High damage, very mobile, strong duelling",
+    "Weaknesses": "Squishy, easily killed if locked down, hard to play",
+    "Ultimate": "Dash to an already-knocked-up champion, deal damage",
+    "Mechanic": "Windwall blocks all incoming enemy projectiles",
+    "Classes": [
+      "Fighter"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 134
+  },
+  {
+    "Year": 2018,
+    "Champion": "Yorick",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 33,
+    "SustainedLevel": 100,
+    "TankLevel": 67,
+    "Goal": "Splitpush, use ult to possibly pressure two lanes at once",
+    "Strengths": "Good laner if he can out-push the enemy",
+    "Weaknesses": "Weak teamfighting, needs CC from allies to be effective",
+    "Ultimate": "Summons Maiden of the Mist, which pushes a lane",
+    "Mechanic": "Summons Mist Walkers from graves",
+    "Classes": [
+      "Fighter",
+      "Tank"
+    ],
+    "Roles": [
+      "Top"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 135
+  },
+  {
+    "Year": 2018,
+    "Champion": "Zac",
+    "ChampionRange": "Melee",
+    "DamageType": "Magical",
+    "CCLevel": 100,
+    "BurstLevel": 33,
+    "SustainedLevel": 33,
+    "TankLevel": "",
+    "Goal": "Initiate and force enemy team out of position with E then R",
+    "Strengths": "Long-range engage with E, very tanky",
+    "Weaknesses": "E is important to hit but can easily be dodged",
+    "Ultimate": "Bounce around, self-centered AoE knockup each bounce",
+    "Mechanic": "Upon reaching 0 HP, turns into blobs that need to be killed",
+    "Classes": [
+      "Tank"
+    ],
+    "Roles": [
+      "Jungle"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 136
+  },
+  {
+    "Year": 2018,
+    "Champion": "Zed",
+    "ChampionRange": "Melee",
+    "DamageType": "Physical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 33,
+    "TankLevel": 33,
+    "Goal": "Ult a priority target and burst them, splitpush",
+    "Strengths": "High damage, very safe for an assassin",
+    "Weaknesses": "Falls off late game, hard to play, needs to snowball",
+    "Ultimate": "Dash behind target, bursts based on damage dealt to target",
+    "Mechanic": "Does damage from and can switch positions with shadows",
+    "Classes": [
+      "Assassin"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 137
+  },
+  {
+    "Year": 2018,
+    "Champion": "Ziggs",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 33,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Farm, poke with Q, get as much AoE in fights as possible",
+    "Strengths": "Good waveclear, very good zone control",
+    "Weaknesses": "Low mobility, high mana costs, unreliable damage",
+    "Ultimate": "Long range large AoE damage nuke",
+    "Mechanic": "His W can execute a turret from 25-35% HP",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 138
+  },
+  {
+    "Year": 2018,
+    "Champion": "Zilean",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 33,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Poke and stun enemies with bombs, ult ally carries",
+    "Strengths": "Good zoning and waveclear, can revive a carry",
+    "Weaknesses": "Falls off lategame, bombs are hard to hit",
+    "Ultimate": "Marks an ally or himself, who is then resurrected if they die",
+    "Mechanic": "Grant allies bonus experience and can revive them",
+    "Classes": [
+      "Support",
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 139
+  },
+  {
+    "Year": 2018,
+    "Champion": "Zoe",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 67,
+    "TankLevel": 33,
+    "Goal": "Eradicate backline with well-aimed skillshots",
+    "Strengths": "High long range burst",
+    "Weaknesses": "Very Squishy and without any escape",
+    "Ultimate": "Teleport to a nearby location and jump back after 1s",
+    "Mechanic": "Can use ult to get higher dmg on Q AKA more burst",
+    "Classes": [
+      "Mage"
+    ],
+    "Roles": [
+      "Mid"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 140
+  },
+  {
+    "Year": 2018,
+    "Champion": "Zyra",
+    "ChampionRange": "Ranged",
+    "DamageType": "Magical",
+    "CCLevel": 67,
+    "BurstLevel": 100,
+    "SustainedLevel": 100,
+    "TankLevel": 33,
+    "Goal": "Poke during laning phase, lock down enemies in fights",
+    "Strengths": "Good disengage, strong laning, high damage",
+    "Weaknesses": "Very squishy, low mobility, falls off lategame",
+    "Ultimate": "AoE damage and delayed AoE knockup",
+    "Mechanic": "Kit revolves around her ability to make plants",
+    "Classes": [
+      "Support",
+      "Mage"
+    ],
+    "Roles": [
+      "Support"
+    ],
+    "_pageName": "Data:ChampionFlashcards/U-Z",
+    "_pageTitle": "ChampionFlashcards/U-Z",
+    "_pageNamespace": 10008,
+    "_pageID": 256822,
+    "_ID": 141
+  }
+]

@@ -1,0 +1,44 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  uid   String @id @default("")
+}
+
+model Champion {
+  uid                         Int @id @default(autoincrement())
+  name                        String
+  title                       String
+  releaseDate                 String
+  BE                          Int
+  RP                          Int
+  attributes                  String[]
+  resource                    String
+  health                      Float
+  HPLevel                     Int
+  HPRegen                     Float
+  HPRegenLevel                Float
+  mana                        Float
+  manaLevel                   Float
+  manaRegen                   Float
+  manaRegenLevel              Float
+  energy                      Int
+  energyRegen                 Int
+  movespeed                   Int
+  attackDamage                Float
+  ADLevel                     Float
+  attackSpeed                 Float
+  ASLevel                     Float
+  attackRange                 Int
+  armor                       Int
+  armorLevel                  Float
+  magicResist                 Float
+  magicResistLevel            Float
+  pronoun                     String
+}
