@@ -2,6 +2,7 @@ import { PrismaClient } from '@prisma/client'
 import * as z from 'zod'
 
 import Champions from '../dumps/Champions.json'
+import ChampionFlashcards from '../dumps/ChampionFlashcards.json'
 
 // for later
 // const Player = z.object({
@@ -27,7 +28,14 @@ export const seed = (db: PrismaClient) => ({
       ReleaseDate: z.union([z.string(), z.date()]),
       BE: z.number(),
       RP: z.number(),
-      Attributes: z.array(z.string()),
+      Attributes: z.array(z.union([
+        z.literal('Tank'),
+        z.literal('Mage'),
+        z.literal('Assassin'),
+        z.literal('Marksman'),
+        z.literal('Support'),
+        z.literal('Fighter'),
+      ])),
       Resource: z.string(),
       Health: z.number(),
       HPLevel: z.number(),
@@ -51,15 +59,66 @@ export const seed = (db: PrismaClient) => ({
       MagicResistLevel: z.number(),
       Pronoun: z.string(),
     })
+    const ChampionFlashcard = z.object({
+      Champion: z.string(),
+      ChampionRange: z.union([
+        z.literal('Melee'),
+        z.literal('Ranged'),
+        z.literal('Switches')
+      ]),
+      DamageType: z.union([
+        z.literal('Physical'),
+        z.literal('Physcal'),
+        z.literal('Physical/Hybrid'),
+        z.literal('Magic'),
+        z.literal('Magical'),
+        z.literal('Magical/True'),
+        z.literal('Magical/Hybrid'),
+        z.literal('Hybrid'),
+        z.literal('Mixed'),
+      ]),
+      CCLevel: z.number(),
+      BurstLevel: z.number(),
+      SustainedLevel: z.number(),
+      TankLevel: z.union([z.number(), z.string()]),
+      Goal: z.string(),
+      Strengths: z.string(),
+      Weaknesses: z.string(),
+      Ultimate: z.string(),
+      Mechanic: z.string(),
+      Roles: z.array(z.union([
+        z.literal('Top'),
+        z.literal('Mid'),
+        z.literal('Support'),
+        z.literal('Jungle'),
+        z.literal('Bot'),
+        z.literal(''),
+      ])),
+    })
 
-    const champions: z.infer<typeof Champion>[] = Champions.map(c => {
+    const flashcards: Array<z.infer<typeof ChampionFlashcard>> = []
+    for (const f of ChampionFlashcards) {
+      flashcards.push(ChampionFlashcard.parse(f))
+    }
+    const champions: Array<z.infer<typeof Champion> & z.infer<typeof ChampionFlashcard>> = Champions.map(c => {
       const champion = Champion.parse(c)
+      
       for (const [k, v] of Object.entries(champion)) {
         if (k === "ReleaseDate") {
-          champion[k] = new Date(v as typeof champion['ReleaseDate']).toISOString() // seems to not have done what I wanted :thiking:
+          champion[k] = new Date(v as typeof champion['ReleaseDate']).toISOString()
           continue
         }
         champion[k] = v === '' ? -1: v // clean all the junk data from leaguepedia where undefined values are empty strings
+      }
+      
+      const flashcard = flashcards.find(f => f.Champion === champion.Name)
+      if (flashcard) {
+        for (const [k, v] of Object.entries(flashcard)) {
+          if (k === 'TankLevel') {
+            flashcard[k] = (v === '' ? -1 : v) as typeof flashcard['TankLevel']
+          }
+          champion[k] = flashcard[k]
+        }
       }
       return champion
     })
@@ -97,6 +156,25 @@ export const seed = (db: PrismaClient) => ({
           magicResist: c.MagicResist,
           magicResistLevel: c.MagicResistLevel,
           pronoun: c.Pronoun,
+          championRange: c.ChampionRange,
+          damageType: c.DamageType ? c.DamageType
+            .replace('Physcal', 'Physical')
+            .replace('Mixed', 'Hybrid')
+            .replace(/Magic$/, 'Magical')
+            .replace('Magical/True', 'MagicalTrue')
+            .replace(/\/Hybrid$/, 'Hybrid')
+            .replace('MagicalHybrid', 'Hybrid')
+            .replace('PhysicalHybrid', 'Hybrid') : 'Unknown',
+          CCLevel: c.CCLevel,
+          burstLevel: c.BurstLevel,
+          sustainedLevel: c.SustainedLevel,
+          tankLevel: c.TankLevel,
+          goal: c.Goal,
+          strengths: c.Strengths,
+          weaknesses: c.Weaknesses,
+          ultimate: c.Ultimate,
+          mechanic: c.Mechanic,
+          roles: c.Roles && c.Roles.length === 1 && c.Roles[0] === '' ? 'Unknown' : c.Roles,
         }
       })
     }

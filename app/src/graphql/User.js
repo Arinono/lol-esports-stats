@@ -3,7 +3,7 @@ import { objectType, extendType, stringArg, nonNull } from 'nexus'
 export const User = objectType({
 	name: 'User',
 	definition(t) {
-		t.nonNull.id('uid', { description: "User's Twitch Unique ID" })
+		t.nonNull.id('uid', { description: "User's unique ID" })
 	}
 })
 

@@ -11,6 +11,39 @@ model User {
   uid   String @id @default("")
 }
 
+enum Role {
+  Top
+  Mid
+  Jungle
+  Support
+  Bot
+  Unknown
+}
+
+enum ChampionAttribute {
+  Tank
+  Mage
+  Assassin
+  Marksman
+  Support
+  Fighter
+}
+
+enum ChampionRange {
+  Ranged
+  Melee
+  Switches
+  Unknown
+}
+
+enum DamageType {
+  Hybrid
+  Physical
+  Magical
+  MagicalTrue
+  Unknown
+}
+
 model Champion {
   uid                         Int @id @default(autoincrement())
   name                        String
@@ -18,7 +51,7 @@ model Champion {
   releaseDate                 String
   BE                          Int
   RP                          Int
-  attributes                  String[]
+  attributes                  ChampionAttribute[]
   resource                    String
   health                      Float
   HPLevel                     Int
@@ -41,4 +74,16 @@ model Champion {
   magicResist                 Float
   magicResistLevel            Float
   pronoun                     String
+  championRange               ChampionRange @default(Unknown)
+  damageType                  DamageType @default(Unknown)
+  CCLevel                     Int @default(-1)
+  burstLevel                  Int @default(-1)
+  sustainedLevel              Int @default(-1)
+  tankLevel                   Int @default(-1)
+  goal                        String @default("")
+  strengths                   String @default("")
+  weaknesses                  String @default("")
+  ultimate                    String @default("")
+  mechanic                    String @default("")
+  roles                       Role[]
 }
