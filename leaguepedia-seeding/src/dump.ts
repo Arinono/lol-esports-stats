@@ -16,7 +16,7 @@ const tables: Table[] = [
   // 'Leagues',
   // 'ListplayerCurrent',
   // 'MatchSchedule',
-  'MatchScheduleGame',
+  // 'MatchScheduleGame', // ici
   // 'NASGLadder2018',
   // 'NASGLadder7Cycles',
   // 'Organizations',
@@ -24,9 +24,9 @@ const tables: Table[] = [
   // 'PicksAndBansS7',
   // 'PlayerImages',
   // 'PlayerLeagueHistory',
-  // 'Players',
+  'Players',
   // 'Regions',
-  'ScoreboardGames',
+  // 'ScoreboardGames', // ici
   // 'ScoreboardPlayers',
   // 'ScoreboardTeams',
   // 'SisterTeams',
@@ -54,9 +54,21 @@ export const run = async () => {
   let i = 0
   for (const t of tables) {
     console.time(`Dummping ${t}`)
-    const dump = await leaguepedia.fetch({ tables: [t] })
+    const limit = 200
+    let offset = 0
+    let dump = [{}]
+    let final = []
+    while (dump.length > 0) {
+      dump = await leaguepedia.fetch({
+        tables: [t],
+        limit,
+        offset
+      })
+      final.push(...dump)
+      offset += limit
+    }
     
-    fs.writeFileSync(`./dumps/${t}.json`, JSON.stringify(dump, null, 2), { encoding: 'utf8' })
+    fs.writeFileSync(`./dumps/${t}.json`, JSON.stringify(final, null, 2), { encoding: 'utf8' })
     console.timeEnd(`Dummping ${t}`)
     if (t !== tables[tables.length] && i === 10) {
       console.log('Waiting for a minute... 🦦')
@@ -66,4 +78,3 @@ export const run = async () => {
   }
   console.timeEnd('Done in')
 }
-

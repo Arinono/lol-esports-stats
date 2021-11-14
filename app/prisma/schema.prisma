@@ -7,17 +7,12 @@ generator client {
   provider = "prisma-client-js"
 }
 
-model User {
-  uid   String @id @default("")
-}
-
-enum Role {
+enum GameRole {
   Top
   Mid
   Jungle
   Support
   Bot
-  Unknown
 }
 
 enum ChampionAttribute {
@@ -33,7 +28,6 @@ enum ChampionRange {
   Ranged
   Melee
   Switches
-  Unknown
 }
 
 enum DamageType {
@@ -41,28 +35,42 @@ enum DamageType {
   Physical
   Magical
   MagicalTrue
-  Unknown
+}
+
+enum ChampionResource {
+  BloodWell
+  Mana
+  Energy
+  Rage
+  Courage
+  Shield
+  Fury
+  Ferocity
+  Heat
+  Grit
+  CrimsonRush
+  Flow
 }
 
 model Champion {
   uid                         Int @id @default(autoincrement())
-  name                        String
-  title                       String
-  releaseDate                 String
+  name                        String @unique
+  title                       String @unique
+  releaseDate                 DateTime
   BE                          Int
   RP                          Int
   attributes                  ChampionAttribute[]
-  resource                    String
+  resource                    ChampionResource?
   health                      Float
   HPLevel                     Int
   HPRegen                     Float
   HPRegenLevel                Float
-  mana                        Float
-  manaLevel                   Float
-  manaRegen                   Float
-  manaRegenLevel              Float
-  energy                      Int
-  energyRegen                 Int
+  mana                        Float?
+  manaLevel                   Float?
+  manaRegen                   Float?
+  manaRegenLevel              Float?
+  energy                      Int?
+  energyRegen                 Int?
   movespeed                   Int
   attackDamage                Float
   ADLevel                     Float
@@ -74,16 +82,50 @@ model Champion {
   magicResist                 Float
   magicResistLevel            Float
   pronoun                     String
-  championRange               ChampionRange @default(Unknown)
-  damageType                  DamageType @default(Unknown)
-  CCLevel                     Int @default(-1)
-  burstLevel                  Int @default(-1)
-  sustainedLevel              Int @default(-1)
-  tankLevel                   Int @default(-1)
-  goal                        String @default("")
-  strengths                   String @default("")
-  weaknesses                  String @default("")
-  ultimate                    String @default("")
-  mechanic                    String @default("")
-  roles                       Role[]
+  championRange               ChampionRange?
+  damageType                  DamageType?
+  CCLevel                     Int?
+  burstLevel                  Int?
+  sustainedLevel              Int?
+  tankLevel                   Int?
+  goal                        String?
+  strengths                   String?
+  weaknesses                  String?
+  ultimate                    String?
+  mechanic                    String?
+  roles                       GameRole[]
+  playedBy                    Player[]
+}
+
+enum StaffRole {
+  Coach
+  Caster
+  Manager
+  Analyst
+  Substitute
+  Streamer
+  Owner
+}
+
+model Player {
+  uid                         Int @id @default(autoincrement())
+  player                      String @unique
+  name                        String?
+  country                     String?
+  nationalityPrimary          String?
+  age                         Int?
+  birthdate                   DateTime?
+  residencyFormer             String?
+  team                        String?
+  team2                       String?
+  currentTeams                String[]
+  residency                   String?
+  favoriteChampions           Champion[] @relation(references: [uid])
+  soloqueueIds                String[]
+  teamLast                    String?
+  lastPlayerRole              GameRole?
+  lastStaffRole               StaffRole?
+  isRetired                   Boolean?
+  isSubstitute                Boolean?
+  isTrainee                   Boolean?
 }

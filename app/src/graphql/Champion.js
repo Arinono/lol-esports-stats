@@ -4,19 +4,19 @@ import { Role } from './Role'
 export const ChampionAttribute = enumType({
 	name: 'ChampionAttribute',
 	members: ['Tank', 'Mage', 'Assassin', 'Marksman', 'Support', 'Fighter'],
-	description: 'Champion Attribute',
+	description: 'Champion Attribute'
 })
 
 export const ChampionRange = enumType({
 	name: 'ChampionRange',
 	members: ['Ranged', 'Melee', 'Switches', 'Unknown'],
-	description: 'Champion Range',
+	description: 'Champion Range'
 })
 
 export const DamageType = enumType({
 	name: 'DamageType',
 	members: ['Hybrid', 'Physical', 'Magical', 'MagicalTrue', 'Unknown'],
-	description: 'Damage Type',
+	description: 'Damage Type'
 })
 
 export const Champion = objectType({
@@ -97,7 +97,7 @@ export const ChampionByNameQuery = extendType({
 			args: {
 				name: nonNull(stringArg())
 			},
-			resolve: (_root, { name }, ctx) => ctx.db.champion.findFirst({ where: { name }})
+			resolve: (_root, { name }, ctx) => ctx.db.champion.findFirst({ where: { name } })
 		})
 	}
 })
