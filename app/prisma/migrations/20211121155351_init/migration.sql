@@ -16,9 +16,12 @@ CREATE TYPE "ChampionResource" AS ENUM ('BloodWell', 'Mana', 'Energy', 'Rage', '
 -- CreateEnum
 CREATE TYPE "StaffRole" AS ENUM ('Coach', 'Caster', 'Manager', 'Analyst', 'Substitute', 'Streamer', 'Owner');
 
+-- CreateEnum
+CREATE TYPE "LeagueLevel" AS ENUM ('Primary', 'Secondary', 'Showmatch', 'Premier');
+
 -- CreateTable
 CREATE TABLE "Champion" (
-    "uid" SERIAL NOT NULL,
+    "uid" TEXT NOT NULL,
     "name" TEXT NOT NULL,
     "title" TEXT NOT NULL,
     "releaseDate" TIMESTAMP(3) NOT NULL,
@@ -26,6 +29,7 @@ CREATE TABLE "Champion" (
     "RP" INTEGER NOT NULL,
     "attributes" "ChampionAttribute"[],
     "resource" "ChampionResource",
+    "realName" TEXT,
     "health" DOUBLE PRECISION NOT NULL,
     "HPLevel" INTEGER NOT NULL,
     "HPRegen" DOUBLE PRECISION NOT NULL,
@@ -64,34 +68,48 @@ CREATE TABLE "Champion" (
 );
 
 -- CreateTable
-CREATE TABLE "Player" (
-    "uid" SERIAL NOT NULL,
-    "player" TEXT NOT NULL,
-    "name" TEXT,
-    "country" TEXT,
-    "nationalityPrimary" TEXT,
-    "age" INTEGER,
-    "birthdate" TIMESTAMP(3),
-    "residencyFormer" TEXT,
-    "team" TEXT,
-    "team2" TEXT,
-    "currentTeams" TEXT[],
-    "residency" TEXT,
-    "soloqueueIds" TEXT,
-    "teamLast" TEXT,
-    "playerRoleLast" "GameRole",
-    "staffRoleLast" "StaffRole",
-    "isRetired" BOOLEAN,
-    "isSubstitute" BOOLEAN,
-    "isTrainee" BOOLEAN,
+CREATE TABLE "Region" (
+    "uid" TEXT NOT NULL,
+    "short" TEXT NOT NULL,
+    "name" TEXT NOT NULL,
+    "active" BOOLEAN NOT NULL,
 
-    CONSTRAINT "Player_pkey" PRIMARY KEY ("uid")
+    CONSTRAINT "Region_pkey" PRIMARY KEY ("uid")
 );
 
 -- CreateTable
-CREATE TABLE "_ChampionToPlayer" (
-    "A" INTEGER NOT NULL,
-    "B" INTEGER NOT NULL
+CREATE TABLE "Team" (
+    "uid" TEXT NOT NULL,
+    "name" TEXT NOT NULL,
+    "short" TEXT NOT NULL,
+    "location" TEXT,
+    "teamLocation" TEXT,
+    "regionShort" TEXT,
+    "previousName" TEXT,
+    "isDisbanded" BOOLEAN NOT NULL,
+    "twitter" TEXT,
+    "youtube" TEXT,
+    "facebook" TEXT,
+    "instagram" TEXT,
+    "discord" TEXT,
+    "snapchat" TEXT,
+    "vk" TEXT,
+    "subreddit" TEXT,
+    "website" TEXT,
+
+    CONSTRAINT "Team_pkey" PRIMARY KEY ("uid")
+);
+
+-- CreateTable
+CREATE TABLE "League" (
+    "uid" TEXT NOT NULL,
+    "name" TEXT NOT NULL,
+    "short" TEXT NOT NULL,
+    "level" "LeagueLevel" NOT NULL,
+    "regionShort" TEXT NOT NULL,
+    "isOfficial" BOOLEAN NOT NULL,
+
+    CONSTRAINT "League_pkey" PRIMARY KEY ("uid")
 );
 
 -- CreateIndex
@@ -101,16 +119,22 @@ CREATE UNIQUE INDEX "Champion_name_key" ON "Champion"("name");
 CREATE UNIQUE INDEX "Champion_title_key" ON "Champion"("title");
 
 -- CreateIndex
-CREATE UNIQUE INDEX "Player_player_key" ON "Player"("player");
+CREATE UNIQUE INDEX "Region_short_key" ON "Region"("short");
 
 -- CreateIndex
-CREATE UNIQUE INDEX "_ChampionToPlayer_AB_unique" ON "_ChampionToPlayer"("A", "B");
+CREATE UNIQUE INDEX "Region_name_key" ON "Region"("name");
 
 -- CreateIndex
-CREATE INDEX "_ChampionToPlayer_B_index" ON "_ChampionToPlayer"("B");
+CREATE UNIQUE INDEX "Team_name_key" ON "Team"("name");
+
+-- CreateIndex
+CREATE UNIQUE INDEX "Team_previousName_key" ON "Team"("previousName");
+
+-- CreateIndex
+CREATE UNIQUE INDEX "League_name_key" ON "League"("name");
 
 -- AddForeignKey
-ALTER TABLE "_ChampionToPlayer" ADD FOREIGN KEY ("A") REFERENCES "Champion"("uid") ON DELETE CASCADE ON UPDATE CASCADE;
+ALTER TABLE "Team" ADD CONSTRAINT "Team_regionShort_fkey" FOREIGN KEY ("regionShort") REFERENCES "Region"("short") ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
-ALTER TABLE "_ChampionToPlayer" ADD FOREIGN KEY ("B") REFERENCES "Player"("uid") ON DELETE CASCADE ON UPDATE CASCADE;
+ALTER TABLE "League" ADD CONSTRAINT "League_regionShort_fkey" FOREIGN KEY ("regionShort") REFERENCES "Region"("short") ON DELETE RESTRICT ON UPDATE CASCADE;

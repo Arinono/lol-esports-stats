@@ -35,7 +35,7 @@ const handler = async ({ method: httpMethod, headers, path, rawBody: body }) =>
 			headers,
 			path,
 			body,
-			requestContext: { version: '2.0' }
+			requestContext: { version: '2.0' },
 		},
 		{},
 		(err, { statusCode: status, body, headers }) => {

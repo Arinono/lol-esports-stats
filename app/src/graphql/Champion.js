@@ -1,4 +1,4 @@
-import { nonNull, objectType, extendType, intArg, list, enumType, stringArg } from 'nexus'
+import { nonNull, objectType, extendType, list, enumType, stringArg } from 'nexus'
 import { Role } from './Role'
 
 export const ChampionAttribute = enumType({
@@ -19,6 +19,13 @@ export const DamageType = enumType({
 	description: 'Damage Type'
 })
 
+export const Player = objectType({
+	name: 'Player',
+	definition(t) {
+		t.nonNull.id('uid')
+	}
+})
+
 export const Champion = objectType({
 	name: 'Champion',
 	definition(t) {
@@ -29,7 +36,7 @@ export const Champion = objectType({
 		t.nonNull.int('BE')
 		t.nonNull.int('RP')
 		t.list.nonNull.field('attributes', { type: ChampionAttribute })
-		t.nonNull.string('resource')
+		t.string('resource')
 		t.nonNull.float('health')
 		t.nonNull.int('HPLevel')
 		t.nonNull.float('HPRegen')
@@ -63,6 +70,7 @@ export const Champion = objectType({
 		t.nonNull.string('ultimate')
 		t.nonNull.string('mechanic')
 		t.list.nonNull.field('roles', { type: Role })
+		t.list.field('playedBy', { type: Player })
 	}
 })
 
@@ -72,9 +80,14 @@ export const ChampionQuery = extendType({
 		t.field('championByUid', {
 			type: 'Champion',
 			args: {
-				uid: nonNull(intArg())
+				uid: nonNull(stringArg())
 			},
-			resolve: (_root, { uid }, ctx) => ctx.db.champion.findUnique({ where: { uid } })
+			resolve: (_root, { uid }, ctx) => ctx.db.champion.findUnique({
+				where: { uid },
+				include: {
+					playedBy: true
+				}
+			})
 		})
 	}
 })
@@ -97,7 +110,15 @@ export const ChampionByNameQuery = extendType({
 			args: {
 				name: nonNull(stringArg())
 			},
-			resolve: (_root, { name }, ctx) => ctx.db.champion.findFirst({ where: { name } })
+			resolve: (_root, { name }, ctx) => {
+				console.log(_root)
+				return ctx.db.champion.findFirst({
+					where: { name },
+					include: {
+						playedBy: true
+					}
+				})
+			}
 		})
 	}
 })

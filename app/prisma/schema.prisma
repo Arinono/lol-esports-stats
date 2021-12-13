@@ -52,51 +52,6 @@ enum ChampionResource {
   Flow
 }
 
-model Champion {
-  uid                         Int @id @default(autoincrement())
-  name                        String @unique
-  title                       String @unique
-  releaseDate                 DateTime
-  BE                          Int
-  RP                          Int
-  attributes                  ChampionAttribute[]
-  resource                    ChampionResource?
-  health                      Float
-  HPLevel                     Int
-  HPRegen                     Float
-  HPRegenLevel                Float
-  mana                        Float?
-  manaLevel                   Float?
-  manaRegen                   Float?
-  manaRegenLevel              Float?
-  energy                      Int?
-  energyRegen                 Int?
-  movespeed                   Int
-  attackDamage                Float
-  ADLevel                     Float
-  attackSpeed                 Float
-  ASLevel                     Float
-  attackRange                 Int
-  armor                       Int
-  armorLevel                  Float
-  magicResist                 Float
-  magicResistLevel            Float
-  pronoun                     String
-  championRange               ChampionRange?
-  damageType                  DamageType?
-  CCLevel                     Int?
-  burstLevel                  Int?
-  sustainedLevel              Int?
-  tankLevel                   Int?
-  goal                        String?
-  strengths                   String?
-  weaknesses                  String?
-  ultimate                    String?
-  mechanic                    String?
-  roles                       GameRole[]
-  playedBy                    Player[]
-}
-
 enum StaffRole {
   Coach
   Caster
@@ -107,25 +62,164 @@ enum StaffRole {
   Owner
 }
 
+enum LeagueLevel {
+  Primary
+  Secondary
+  Showmatch
+  Premier
+}
+
+model Champion {
+  uid              String              @id @default(uuid())
+  name             String              @unique
+  title            String              @unique
+  releaseDate      DateTime
+  BE               Int
+  RP               Int
+  attributes       ChampionAttribute[]
+  resource         ChampionResource?
+  realName         String?
+  health           Float
+  HPLevel          Int
+  HPRegen          Float
+  HPRegenLevel     Float
+  mana             Float?
+  manaLevel        Float?
+  manaRegen        Float?
+  manaRegenLevel   Float?
+  energy           Int?
+  energyRegen      Int?
+  movespeed        Int
+  attackDamage     Float
+  ADLevel          Float
+  attackSpeed      Float
+  ASLevel          Float
+  attackRange      Int
+  armor            Int
+  armorLevel       Float
+  magicResist      Float
+  magicResistLevel Float
+  pronoun          String
+  championRange    ChampionRange?
+  damageType       DamageType?
+  CCLevel          Int?
+  burstLevel       Int?
+  sustainedLevel   Int?
+  tankLevel        Int?
+  goal             String?
+  strengths        String?
+  weaknesses       String?
+  ultimate         String?
+  mechanic         String?
+  roles            GameRole[]
+  playedBy         Player[]
+}
+
+model Region {
+  uid           String   @id @default(uuid())
+  short         String   @unique
+  name          String   @unique
+  active        Boolean
+  teams         Team[]
+  leagues       League[]
+  players       Player[] @relation("region")
+  formerPlayers Player[] @relation("formerRegion")
+}
+
+model Team {
+  uid              String   @id @default(uuid())
+  name             String   @unique
+  short            String
+  location         String?
+  teamLocation     String?
+  regionShort      String
+  region           Region   @relation(fields: [regionShort], references: [short])
+  previousName     String?  @unique
+  isDisbanded      Boolean
+  twitter          String?
+  youtube          String?
+  facebook         String?
+  instagram        String?
+  discord          String?
+  snapchat         String?
+  vk               String?
+  subreddit        String?
+  website          String?
+  players          Player[] @relation("playerPrimaryTeam")
+  secondaryPlayers Player[] @relation("playerSecondaryTeam")
+  formerPlayers     Player[] @relation("playerLastTeamOnTeam")
+}
+
+model League {
+  uid         String      @id @default(uuid())
+  name        String      @unique
+  short       String
+  level       LeagueLevel
+  regionShort String
+  region      Region      @relation(fields: [regionShort], references: [short])
+  isOfficial  Boolean
+}
+
+enum Server {
+  KR
+  EUW
+  NA
+  CN
+  BR
+  VN
+}
+
+model Account {
+  uid String @id @default(uuid())
+  server Server?
+  name String
+  playerName String
+  player Player @relation(fields: [playerName], references: [uid])
+}
+
 model Player {
-  uid                         Int @id @default(autoincrement())
-  player                      String @unique
-  name                        String?
-  country                     String?
-  nationalityPrimary          String?
-  age                         Int?
-  birthdate                   DateTime?
-  residencyFormer             String?
-  team                        String?
-  team2                       String?
-  currentTeams                String[]
-  residency                   String?
-  favoriteChampions           Champion[] @relation(references: [uid])
-  soloqueueIds                String[]
-  teamLast                    String?
-  lastPlayerRole              GameRole?
-  lastStaffRole               StaffRole?
-  isRetired                   Boolean?
-  isSubstitute                Boolean?
-  isTrainee                   Boolean?
+  uid               String     @id @default(uuid())
+  player            String     @unique
+  fullname          String?
+  nativeFullname    String?
+  country           String?
+  nationality       String?
+  age               Int?
+  birthdate         DateTime?
+  soloqueueIds      Account[]
+  askfm String?
+  discord String?
+  facebook String?
+  instagram String?
+  lolpros String?
+  reddit String?
+  snapchat String?
+  stream String?
+  twitter String?
+  vk String?
+  website String?
+  weibo String?
+  youtube String?
+  lastPlayerRole    GameRole?
+  lastStaffRole     StaffRole?
+  isRetired         Boolean?
+  isSubstitute      Boolean?
+  isTrainee         Boolean?
+  currentTeamsNames String[]
+  favoriteChampions Champion[]
+  //
+  lastTeamName String?
+  lastTeam Team? @relation("playerLastTeamOnTeam", fields: [lastTeamName], references: [name])
+  //
+  teamName          String?
+  team              Team?      @relation("playerPrimaryTeam", fields: [teamName], references: [name])
+  //
+  teamName2         String?
+  team2             Team?      @relation("playerSecondaryTeam", fields: [teamName2], references: [name])
+  //
+  regionShort       String?
+  region            Region?    @relation("region", fields: [regionShort], references: [short])
+  //
+  formerRegionShort String?
+  formerRegion      Region?    @relation("formerRegion", fields: [formerRegionShort], references: [short])
 }
